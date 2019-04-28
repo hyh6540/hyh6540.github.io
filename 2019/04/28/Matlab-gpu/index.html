@@ -68,7 +68,7 @@
 
 
 
-  <meta name="keywords" content="Hexo, NexT">
+  <meta name="keywords" content="Matlab,">
 
 
 
@@ -79,13 +79,18 @@
 
 
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="Yinghui&#39;s Notes">
-<meta property="og:url" content="http://yoursite.com/tags/MEC/index.html">
+<meta name="description" content="Matlab虽然对矩阵运行较快。但是在较大维度的矩阵运算时，由于CPU的能力有限，我们可以考虑使用GPU进行并行运算(只能是N卡)，从而加速矩阵运行。注意：只有当矩阵维度到达一定程度时，才推荐使用GPU加速，否则，通信的时间也许会超过计算的时间，从而导致整体的时间没有降低。 &amp;lt;!-- more --&amp;gt; 基本内容 首先可以通过gpuDevice命令在matlab中检测是否能够发现GPU。">
+<meta name="keywords" content="Matlab">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Matlab.gpu">
+<meta property="og:url" content="http://yoursite.com/2019/04/28/Matlab-gpu/index.html">
 <meta property="og:site_name" content="Yinghui&#39;s Notes">
+<meta property="og:description" content="Matlab虽然对矩阵运行较快。但是在较大维度的矩阵运算时，由于CPU的能力有限，我们可以考虑使用GPU进行并行运算(只能是N卡)，从而加速矩阵运行。注意：只有当矩阵维度到达一定程度时，才推荐使用GPU加速，否则，通信的时间也许会超过计算的时间，从而导致整体的时间没有降低。 &amp;lt;!-- more --&amp;gt; 基本内容 首先可以通过gpuDevice命令在matlab中检测是否能够发现GPU。">
 <meta property="og:locale" content="default">
+<meta property="og:updated_time" content="2019-04-28T10:25:53.664Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Yinghui&#39;s Notes">
+<meta name="twitter:title" content="Matlab.gpu">
+<meta name="twitter:description" content="Matlab虽然对矩阵运行较快。但是在较大维度的矩阵运算时，由于CPU的能力有限，我们可以考虑使用GPU进行并行运算(只能是N卡)，从而加速矩阵运行。注意：只有当矩阵维度到达一定程度时，才推荐使用GPU加速，否则，通信的时间也许会超过计算的时间，从而导致整体的时间没有降低。 &amp;lt;!-- more --&amp;gt; 基本内容 首先可以通过gpuDevice命令在matlab中检测是否能够发现GPU。">
 
 
 
@@ -115,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/MEC/">
+  <link rel="canonical" href="http://yoursite.com/2019/04/28/Matlab-gpu/">
 
 
 
 
 
-  <title>Tag: MEC | Yinghui's Notes</title>
+  <title>Matlab.gpu | Yinghui's Notes</title>
   
 
 
@@ -140,7 +145,7 @@
     
   
 
-  <div class="container sidebar-position-left ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
     
 
@@ -268,52 +273,181 @@
           <div id="content" class="content">
             
 
-  
-  
-  
-  <div class="post-block tag">
+  <div id="posts" class="posts-expand">
+    
 
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>MEC<small>Tag</small>
-        </h1>
-      </div>
+  
 
-      
-        
+  
+  
+  
 
   <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/04/28/Matlab-gpu/">
 
-      <h2 class="post-title">
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Yinghui He">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/images/yinghui.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Yinghui's Notes">
+    </span>
+
+    
+      <header class="post-header">
+
         
-            <a class="post-title-link" href="/2019/04/25/D2D-Communications-Meet-Mobile-Edge-Computing-for-Enhanced-Computation-Capacity-in-Cellular-Networks/" itemprop="url">
-              
-                <span itemprop="name">D2D Communications Meet Mobile Edge Computing for Enhanced Computation Capacity in Cellular Networks</span>
-              
-            </a>
         
-      </h2>
+          <h1 class="post-title" itemprop="name headline">Matlab.gpu</h1>
+        
 
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-04-25T15:23:27+08:00" content="2019-04-25">
-          04-25
-        </time>
-      </div>
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-04-28T18:21:22+08:00">
+                2019-04-28
+              </time>
+            
 
-    </header>
-  </article>
+            
 
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Technique/" itemprop="url" rel="index">
+                    <span itemprop="name">Technique</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>Matlab虽然对矩阵运行较快。但是在较大维度的矩阵运算时，由于CPU的能力有限，我们可以考虑使用GPU进行并行运算(只能是N卡)，从而加速矩阵运行。注意：只有当矩阵维度到达一定程度时，才推荐使用GPU加速，否则，通信的时间也许会超过计算的时间，从而导致整体的时间没有降低。</p>
+<p>&lt;!-- more --&gt;</p>
+<h3>基本内容</h3>
+<p>首先可以通过<code>gpuDevice</code>命令在matlab中检测是否能够发现GPU。</p>
+<p>最为简单的使用如下：</p>
+<p><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">A_gpu = gpuArray(A); <span class="comment">% 将A传递到GPU</span></span><br><span class="line">A_cpu = gather(A_gpu); <span class="comment">% 将A拉回到CPU</span></span><br><span class="line"></span><br><span class="line"><span class="comment">% 当然也可以直接在GPU上创建矩阵</span></span><br><span class="line">gpuArray.<span class="built_in">ones</span>();	gpuArray.<span class="built_in">zeros</span>();</span><br></pre></td></tr></table></figure></p>
+<p>详细的内容可以查看https://ww2.mathworks.cn/help/parallel-computing/gpu-computing-in-matlab.html。相应的官方教程：https://ww2.mathworks.cn/help/parallel-computing/run-matlab-functions-on-a-gpu.html</p>
+<h3>实际测试</h3>
+<p><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">clc; clear; close all;</span><br><span class="line"></span><br><span class="line">N = <span class="number">1000000</span>;</span><br><span class="line">A = <span class="built_in">rand</span>(N, <span class="number">1</span>);</span><br><span class="line"><span class="comment">% CPU</span></span><br><span class="line">t1 = clock;</span><br><span class="line">G = fft(A);</span><br><span class="line">t2 = clock;</span><br><span class="line">etime(t2, t1)</span><br><span class="line"></span><br><span class="line"><span class="comment">% GPUI</span></span><br><span class="line">t1 = clock;</span><br><span class="line">A_gpu = gpuArray(A);</span><br><span class="line">G_gpu = fft(A_gpu);</span><br><span class="line">G = gather(G_gpu);</span><br><span class="line">t2 = clock;</span><br><span class="line">etime(t2, t1)</span><br></pre></td></tr></table></figure></p>
 
       
     </div>
+    
+    
+    
 
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Matlab/" rel="tag"><i class="fa fa-tag"></i> Matlab</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/04/25/D2D-Communications-Meet-Mobile-Edge-Computing-for-Enhanced-Computation-Capacity-in-Cellular-Networks/" rel="next" title="D2D Communications Meet Mobile Edge Computing for Enhanced Computation Capacity in Cellular Networks">
+                <i class="fa fa-chevron-left"></i> D2D Communications Meet Mobile Edge Computing for Enhanced Computation Capacity in Cellular Networks
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/04/28/Matlab-mex/" rel="prev" title="Matlab.mex">
+                Matlab.mex <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
   </div>
   
   
   
+  </article>
 
-  
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -321,6 +455,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -341,8 +479,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -420,6 +567,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.</span> <span class="nav-text">基本内容</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">2.</span> <span class="nav-text">实际测试</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -556,6 +719,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
