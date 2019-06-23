@@ -283,6 +283,152 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/06/23/Matlab-memory/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Yinghui He">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/images/yinghui.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Yinghui's Notes">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2019/06/23/Matlab-memory/" itemprop="url">Matlab.memory</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-06-23T12:26:22+08:00">
+                2019-06-23
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Technique/" itemprop="url" rel="index">
+                    <span itemprop="name">Technique</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>本文主要介绍在使用matlab时遇到的内存问题。</p>
+<p>&lt;!-- more --&gt;</p>
+<p>一般来说，维度较小的矩阵运算，现在的内存都是足够的。但是最近我在做一些性能对比的时候，就出现了内存不够的情况。具体的情况是：本人针对一个0,1整数规划问题，设计了一个启发式算法，需要和最优值(穷举法获得)进行对比效果。在实现穷举的时候，大体的代码设计如下。</p>
+<p><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="comment">%% main.m</span></span><br><span class="line"></span><br><span class="line">N_rand = <span class="number">1e5</span>; <span class="comment">% 随机次数</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> <span class="built_in">i</span> = <span class="number">1</span>:N_rand</span><br><span class="line">	<span class="comment">% 随机产生数据</span></span><br><span class="line">	A = <span class="built_in">rand</span>(<span class="number">100</span>,<span class="number">100</span>);</span><br><span class="line">	<span class="comment">% 调用求解函数</span></span><br><span class="line">	res = find_opt(A);</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% find_opt.m</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">res</span> = <span class="title">find_opt</span><span class="params">(A)</span></span></span><br><span class="line"></span><br><span class="line"><span class="comment">% 穷举搜索获得A</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure></p>
+<p>如果只是运行一次函数<code>find_opt.m</code>是不会有内存问题的。但是一旦我们在主函数中增加<code>N_rand</code>的数目，就会出现内存不断累加，从而使得matlab报错：内存不足。但是这是不合常理的，因为每次我们运行完函数应当只留下最后的结果，中间的变量所占用的内存就会自动释放。但是在这里不是这样的，内存是不断累积的。我首先的反应是自己的写法有问题，但是我在查阅了相关的文档后，发现matlab官方对这方面的说明很少，并且外网上对此的吐槽很多。基于此，我猜想matlab对于内存的使用就是这样的。故而使用了python进行实现。在相同参数下，可以非常明显的发现，python就不存这样的问题。这也可以说明matlab对内存的使用设计存在着一定的问题。如果遇到大规模问题，还是可以考虑用python/c++实现。</p>
+
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/04/28/Matlab-mex/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1238,7 +1384,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">6</span>
+                  <span class="site-state-item-count">7</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
