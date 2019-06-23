@@ -79,20 +79,20 @@
 
 
 
-<meta name="description" content="本文主要介绍论文中画仿真图需要Matlab的技巧。 &amp;lt;!-- more --&amp;gt; 曲线图 12345678910111213141516171819202122232425262728clc; clear; close all;font_size = 14;line_width = 2;marker_size = 8;figure1 = figure;axes1 = axes(&apos;Pare">
+<meta name="description" content="本文主要介绍论文中画仿真图需要Matlab的技巧。">
 <meta name="keywords" content="Matlab">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Matlab.plot">
 <meta property="og:url" content="http://yoursite.com/2019/03/24/Matlab-plot/index.html">
 <meta property="og:site_name" content="Yinghui&#39;s Notes">
-<meta property="og:description" content="本文主要介绍论文中画仿真图需要Matlab的技巧。 &amp;lt;!-- more --&amp;gt; 曲线图 12345678910111213141516171819202122232425262728clc; clear; close all;font_size = 14;line_width = 2;marker_size = 8;figure1 = figure;axes1 = axes(&apos;Pare">
+<meta property="og:description" content="本文主要介绍论文中画仿真图需要Matlab的技巧。">
 <meta property="og:locale" content="default">
 <meta property="og:image" content="http://yoursite.com/img/Matlab.plot.1.jpg">
 <meta property="og:image" content="http://yoursite.com/img/Matlab.plot.2.jpg">
-<meta property="og:updated_time" content="2019-04-28T10:33:27.137Z">
+<meta property="og:updated_time" content="2019-06-23T04:48:17.531Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Matlab.plot">
-<meta name="twitter:description" content="本文主要介绍论文中画仿真图需要Matlab的技巧。 &amp;lt;!-- more --&amp;gt; 曲线图 12345678910111213141516171819202122232425262728clc; clear; close all;font_size = 14;line_width = 2;marker_size = 8;figure1 = figure;axes1 = axes(&apos;Pare">
+<meta name="twitter:description" content="本文主要介绍论文中画仿真图需要Matlab的技巧。">
 <meta name="twitter:image" content="http://yoursite.com/img/Matlab.plot.1.jpg">
 
 
@@ -380,7 +380,7 @@
 
       
         <p>本文主要介绍论文中画仿真图需要Matlab的技巧。</p>
-<p>&lt;!-- more --&gt;</p>
+<p><a id="more"></a></p>
 <h1>曲线图</h1>
 <p><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">clc; clear; close all;</span><br><span class="line"></span><br><span class="line">font_size = <span class="number">14</span>;</span><br><span class="line">line_width = <span class="number">2</span>;</span><br><span class="line">marker_size = <span class="number">8</span>;</span><br><span class="line"></span><br><span class="line">figure1 = <span class="built_in">figure</span>;</span><br><span class="line">axes1 = axes(<span class="string">'Parent'</span>, figure1);</span><br><span class="line"><span class="built_in">hold</span> on </span><br><span class="line">box on </span><br><span class="line">grid on</span><br><span class="line">P1 = <span class="built_in">plot</span>(x, y(<span class="number">1</span>,:),<span class="string">'^-'</span>,<span class="string">'Color'</span>,[<span class="number">0</span> <span class="number">0</span> <span class="number">1</span>],<span class="string">'Markersize'</span>, marker_size, <span class="string">'Linewidth'</span>, line_width);</span><br><span class="line">P2 = <span class="built_in">plot</span>(x, y(<span class="number">2</span>,:),<span class="string">'*-'</span>,<span class="string">'Color'</span>,[<span class="number">1</span> <span class="number">0</span> <span class="number">0</span>],<span class="string">'Markersize'</span>, marker_size, <span class="string">'Linewidth'</span>, line_width);</span><br><span class="line">P3 = <span class="built_in">plot</span>(x, y(<span class="number">3</span>,:), <span class="string">'&lt;-'</span>,<span class="string">'Color'</span>,[<span class="number">1</span> <span class="number">0.5</span> <span class="number">0</span>],<span class="string">'Markersize'</span>, marker_size, <span class="string">'Linewidth'</span>, line_width);</span><br><span class="line">P4 = <span class="built_in">plot</span>(x, y(<span class="number">4</span>,:),<span class="string">'&gt;-'</span>,<span class="string">'Color'</span>,[<span class="number">0</span> <span class="number">0.5</span> <span class="number">0.5</span>],<span class="string">'Markersize'</span>, marker_size, <span class="string">'Linewidth'</span>, line_width);</span><br><span class="line"></span><br><span class="line">set(P1,<span class="string">'DisplayName'</span>,<span class="string">'name1'</span>);</span><br><span class="line">set(P2,<span class="string">'DisplayName'</span>,<span class="string">'name1'</span>);</span><br><span class="line">set(P3,<span class="string">'DisplayName'</span>,<span class="string">'name1'</span>);</span><br><span class="line">set(P4,<span class="string">'DisplayName'</span>,<span class="string">'name1'</span>);</span><br><span class="line"></span><br><span class="line">leg1 = <span class="built_in">legend</span>(axes1,<span class="string">'show'</span>);</span><br><span class="line">xlim([x(<span class="number">1</span>) x(<span class="keyword">end</span>)]);</span><br><span class="line">ylim([<span class="number">0</span> <span class="built_in">max</span>(<span class="built_in">max</span>(y))])</span><br><span class="line">set(leg1,<span class="string">'Location'</span>,<span class="string">'northwest'</span>,<span class="string">'Interpreter'</span>,<span class="string">'latex'</span>,<span class="string">'FontSize'</span>,font_size);</span><br><span class="line">set(axes1,<span class="string">'YColor'</span>,[<span class="number">0</span> <span class="number">0</span> <span class="number">0</span>],<span class="string">'YMinorTick'</span>,<span class="string">'on'</span>,<span class="string">'FontSize'</span>,font_size);</span><br><span class="line">xlabel(<span class="string">'x'</span>);</span><br><span class="line">ylabel(<span class="string">'y'</span>);</span><br></pre></td></tr></table></figure></p>
 <p>代码的效果如下图所示。
