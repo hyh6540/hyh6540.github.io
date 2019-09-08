@@ -68,7 +68,7 @@
 
 
 
-  <meta name="keywords" content="D2D,">
+  <meta name="keywords" content="Hexo,">
 
 
 
@@ -79,18 +79,18 @@
 
 
 
-<meta name="description" content="This work was finished during the intership in the Department of Information Engineering (IE), the Chinese University of Hong Kong (CUHK).">
-<meta name="keywords" content="D2D">
+<meta name="description" content="这里是我记录在利用Hexo搭建网站过程中学习到的一些命令和遇到的问题。">
+<meta name="keywords" content="Hexo">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Device-to-Device Load Balancing for Cellular Networks">
-<meta property="og:url" content="http://yoursite.com/2019/03/22/Device-to-Device-Load-Balancing-for-Cellular-Networks/index.html">
+<meta property="og:title" content="Hexo">
+<meta property="og:url" content="http://yoursite.com/2019/03/24/Hexo/index.html">
 <meta property="og:site_name" content="Yinghui&#39;s Notes">
-<meta property="og:description" content="This work was finished during the intership in the Department of Information Engineering (IE), the Chinese University of Hong Kong (CUHK).">
+<meta property="og:description" content="这里是我记录在利用Hexo搭建网站过程中学习到的一些命令和遇到的问题。">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2019-06-23T04:48:24.175Z">
+<meta property="og:updated_time" content="2019-09-08T04:46:23.026Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Device-to-Device Load Balancing for Cellular Networks">
-<meta name="twitter:description" content="This work was finished during the intership in the Department of Information Engineering (IE), the Chinese University of Hong Kong (CUHK).">
+<meta name="twitter:title" content="Hexo">
+<meta name="twitter:description" content="这里是我记录在利用Hexo搭建网站过程中学习到的一些命令和遇到的问题。">
 
 
 
@@ -120,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2019/03/22/Device-to-Device-Load-Balancing-for-Cellular-Networks/">
+  <link rel="canonical" href="http://yoursite.com/2019/03/24/Hexo/">
 
 
 
 
 
-  <title>Device-to-Device Load Balancing for Cellular Networks | Yinghui's Notes</title>
+  <title>Hexo | Yinghui's Notes</title>
   
 
 
@@ -287,7 +287,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/03/22/Device-to-Device-Load-Balancing-for-Cellular-Networks/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/03/24/Hexo/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Yinghui He">
@@ -304,7 +304,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">Device-to-Device Load Balancing for Cellular Networks</h1>
+          <h1 class="post-title" itemprop="name headline">Hexo</h1>
         
 
         <div class="post-meta">
@@ -316,8 +316,8 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-03-22T23:13:57+08:00">
-                2019-03-22
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-03-24T00:00:00+08:00">
+                2019-03-24
               </time>
             
 
@@ -339,8 +339,8 @@
               
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Work/" itemprop="url" rel="index">
-                    <span itemprop="name">Work</span>
+                  <a href="/categories/Technique/" itemprop="url" rel="index">
+                    <span itemprop="name">Technique</span>
                   </a>
                 </span>
 
@@ -376,10 +376,29 @@
       
 
       
-        <p>This work was finished during the intership in the Department of Information Engineering (IE), the Chinese University of Hong Kong (CUHK).</p>
+        <p>这里是我记录在利用Hexo搭建网站过程中学习到的一些命令和遇到的问题。</p>
 <p><a id="more"></a></p>
-<p>My goal is to design a low-complexity algorithm for the optimiproblem a conference paper that pubilshed in 2015, <a href="https://staff.ie.cuhk.edu.hk/~mhchen/papers/D2D.LB.MASS.15.pdf" target="_blank" rel="noopener">Device-to-Device Load Balancing for Cellular Networks</a>.</p>
-<p>Our work has been accepted by <em>IEEE TCOMM</em> (IEEE Transactions on Communications). It can be download from <a href="https://export.arxiv.org/abs/1710.02636" target="_blank" rel="noopener">arXiv</a>. In addition, the code of main functions can be found in <a href="https://github.com/hyh6540/D2D-load-balance" target="_blank" rel="noopener">Github</a>.</p>
+<h2>基础命令</h2>
+<p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">// 新建一个文章</span><br><span class="line">hexo new &quot;name&quot;</span><br><span class="line">// 生成静态页面</span><br><span class="line">hexo generate </span><br><span class="line">hexo g</span><br><span class="line">// 将文章部署到Github</span><br><span class="line">hexo deploy</span><br><span class="line">hexo d</span><br><span class="line">// 清理缓存</span><br><span class="line">hexo clean</span><br><span class="line">// 启动服务器，默认地址为: http://localhost:4000/</span><br><span class="line">hexo server</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></p>
+<p>更多命令，可以参考<a href="https://hexo.io/zh-cn/docs/commands.html" target="_blank" rel="noopener">Hexo文档</a>。</p>
+<h2>问题</h2>
+<h3>英文引号无法正常显示</h3>
+<p>在markdown中输入英文的单引号和双引号，在网页上会变为中文的单引号和双引号。这个是开启了<em>smartypants</em>。可以通过关闭这个解决问题，也就是在__config.yml中加入如下代码。
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">marked: </span><br><span class="line">  smartypants: false</span><br></pre></td></tr></table></figure></p>
+<h3>数学公式无法正常显示</h3>
+<p>Hexo 默认的渲染引擎是 marked，但是 marked 不支持 mathjax。，所以需要更换Hexo的markdown渲染引擎为hexo-renderer-kramed引擎，后者支持mathjax公式输出。</p>
+<p>具体修改参考<a href="https://www.jianshu.com/p/68e6f82d88b7" target="_blank" rel="noopener">https://www.jianshu.com/p/68e6f82d88b7</a>.</p>
+<h3>加载图片问题</h3>
+<p>想在文章中增加本地图片，可以使用如下插件
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install https://github.com/CodeFalling/hexo-asset-image --save</span><br></pre></td></tr></table></figure></p>
+<p>然后修改__config.yml中的<code>post_asset_folder: true</code>，接着在同名文件夹下放入图片，即可使用
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![logo](logo.jpg)</span><br></pre></td></tr></table></figure></p>
+<p>实现在文章中调用图片。但是无法改变大小，即使使用了很多网上说的方法。</p>
+<p>为了改变图片大小，可以使用另一个插件
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-tag-figure --save</span><br></pre></td></tr></table></figure></p>
+<p>同样的，也要修改__config.yml中的<code>post_asset_folder: true</code>。但是这里的图片路径方式有所不同。基本使用方式和样例如下
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;% figure [class names] /path/to/image [width] [height] [title text [alt text]] %&#125;</span><br><span class="line">&#123;% figure /img/1.jpg 50% %&#125;</span><br></pre></td></tr></table></figure></p>
+<p>详细内容可以参考相应的网站: https://www.npmjs.com/package/hexo-tag-figure</p>
 
       
     </div>
@@ -397,7 +416,7 @@
       
         <div class="post-tags">
           
-            <a href="/tags/D2D/" rel="tag"><i class="fa fa-tag"></i> D2D</a>
+            <a href="/tags/Hexo/" rel="tag"><i class="fa fa-tag"></i> Hexo</a>
           
         </div>
       
@@ -416,8 +435,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/03/22/Hexo/" rel="prev" title="Hexo">
-                Hexo <i class="fa fa-chevron-right"></i>
+              <a href="/2019/03/24/Device-to-Device-Load-Balancing-for-Cellular-Networks/" rel="prev" title="Device-to-Device Load Balancing for Cellular Networks">
+                Device-to-Device Load Balancing for Cellular Networks <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -470,8 +489,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -488,7 +516,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -510,7 +538,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">5</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -549,6 +577,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#undefined"><span class="nav-number">1.</span> <span class="nav-text">基础命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#undefined"><span class="nav-number">2.</span> <span class="nav-text">问题</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">2.1.</span> <span class="nav-text">英文引号无法正常显示</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">2.2.</span> <span class="nav-text">数学公式无法正常显示</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">2.3.</span> <span class="nav-text">加载图片问题</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
