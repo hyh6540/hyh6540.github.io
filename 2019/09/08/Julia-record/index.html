@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next gemini use-motion" lang>
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css">
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="Julia,">
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="Julia的学习记录.">
+<meta name="keywords" content="Julia">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Julia.record">
+<meta property="og:url" content="http://yoursite.com/2019/09/08/Julia-record/index.html">
+<meta property="og:site_name" content="Yinghui&#39;s Notes">
+<meta property="og:description" content="Julia的学习记录.">
+<meta property="og:locale" content="default">
+<meta property="og:updated_time" content="2019-09-08T03:32:36.776Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Julia.record">
+<meta name="twitter:description" content="Julia的学习记录.">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Gemini',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: 'Author'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2019/09/08/Julia-record/">
+
+
+
+
+
+  <title>Julia.record | Yinghui's Notes</title>
+  
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="default">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+    
+
+    <a href="https://github.com/hyh6540" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewbox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"/><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"/><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"/></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+
+    
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Yinghui's Notes</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
+            
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-work">
+          <a href="/categories/Work/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tasks"></i> <br>
+            
+            Work
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-technique">
+          <a href="/categories/Technique/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-terminal"></i> <br>
+            
+            Technique
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-read">
+          <a href="/categories/Read/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-book"></i> <br>
+            
+            Read
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
+            
+            Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br>
+            
+            Archives
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br>
+            
+            About
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+    
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/09/08/Julia-record/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Yinghui He">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/images/yinghui.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Yinghui's Notes">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">Julia.record</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-09-08T11:28:52+08:00">
+                2019-09-08
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Technique/" itemprop="url" rel="index">
+                    <span itemprop="name">Technique</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>Julia的学习记录.
+<a id="more"></a></p>
+<h2>基本内容</h2>
+<p>由于Julia的语法规则和Matlab十分相近, 这里主要列出一些Julia和Matlab的不同之处.</p>
+<h3>函数</h3>
+<p>Julia的函数定义样例如下:
+<figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> f(x,y)</span><br><span class="line">  <span class="keyword">return</span> x * y</span><br><span class="line">  x + y</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure></p>
+<ul>
+<li>在Julia中, 函数的定义是通过关键字<code>function</code>和<code>end</code>实现的, 并且类似于Python, 可以直接写带脚本中. 这点和Matlab不一样, Matlab需要单独建立函数文件.</li>
+<li>在Julia中, 返回值对象的声明不同于Matlab. 在有return的情况下, 范围值直接由return后的结果决定, 在没有return的情况下, 返回值则由最后一行的结果决定. 在样例中, 返回值为<code>x*y</code>的结果.</li>
+<li>对于较为简单的函数, Julia可以直接通过类似&quot;赋值&quot;的形式来定义函数: <code>f(x,y)=x+y</code>. 与此对应的, Matlab可以通过函数句柄@: <code>f=@(x,y)(x+y);</code>.</li>
+<li>在Julia中, 多返回值, 则可以通过元组来实现: <code>return x+y, x*y</code>.</li>
+<li>在Julia中, 有关键字参数, 主要是一些可以控制的参数, 但是有默认值, 不是每次调用都需要修改, 通过分号和其他的参数分开：<code>function plot(x,y; width=1)</code>.</li>
+</ul>
+<h3>类型</h3>
+<p>这个是Matlab中基本不太用的东西. 在Julia中, 则有很大的用处: 提高性能和稳定性, 减少错误.</p>
+<ul>
+<li>
+<p>Julia会区分2和2.0的不同, 前者默认为整数类型, 后者为浮点数类型, 当遇到有输入要求的函数时, 有可能会抛出异常.</p>
+</li>
+<li>
+<p>相同的函数名称, 但是使用不同的输入类型(或者不同的数目), 两者为不同的函数. 使用时, 会取决于当前输入值的类型, 如果不匹配, 则会抛出异常；如果两者都适用, 则会提醒异常, 同时随机选择一个使用. 如：</p>
+<p><figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> f(x::<span class="built_in">Float64</span>, y::<span class="built_in">Float64</span>)</span><br><span class="line">    <span class="keyword">return</span> x+y</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> f(x::<span class="built_in">Int64</span>, y::<span class="built_in">Int64</span>)</span><br><span class="line">    <span class="keyword">return</span> x-y</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure></p>
+</li>
+</ul>
+<h3>矩阵</h3>
+<table>
+<thead>
+<tr>
+<th>表达式</th>
+<th>等价函数</th>
+<th>对应Matlab表达式</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>[A B ...]</code></td>
+<td><code>hcat</code></td>
+<td><code>[A B ...]</code></td>
+<td></td>
+</tr>
+<tr>
+<td><code>[A, B, C, ...]</code></td>
+<td><code>vcat</code></td>
+<td><code>[A; B; C; ...]</code></td>
+<td>Julia也是可以使用分号来表示的, &lt;br&gt;但是逗号是两者最大的区别.</td>
+</tr>
+<tr>
+<td><code>[A B; C D; ...]</code></td>
+<td><code>hvcat</code></td>
+<td><code>[A B; C D; ...]</code></td>
+<td></td>
+</tr>
+<tr>
+<td><code>A'</code></td>
+<td><code>adjoint</code></td>
+<td><code>A'</code></td>
+<td>两者都表示共轭转置矩阵, &lt;br&gt;如果仅仅是转置, 则用<code>transpose(A)</code>.</td>
+</tr>
+<tr>
+<td><code>A[i]</code></td>
+<td><code>getindex</code></td>
+<td><code>A[i]</code></td>
+<td></td>
+</tr>
+<tr>
+<td><code>A[i] = x</code></td>
+<td><code>setindex!</code></td>
+<td><code>A[i] = x</code></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>并行计算</h3>
+<p>个人主要使用到的为基于多核的多进程并行. 主要使用<code>remote_call</code>和<code>fetch</code>函数实现, 如下：</p>
+<p><figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">require(<span class="string">"count_heads"</span>)</span><br><span class="line"></span><br><span class="line">a = <span class="meta">@spawn</span> count_heads(<span class="number">100000000</span>)</span><br><span class="line">b = <span class="meta">@spawn</span> count_heads(<span class="number">100000000</span>)</span><br><span class="line">fetch(a)+fetch(b)</span><br></pre></td></tr></table></figure></p>
+<p>亦可：</p>
+<p><figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">nheads = <span class="meta">@parallel</span> (+) <span class="keyword">for</span> i=<span class="number">1</span>:<span class="number">200000000</span></span><br><span class="line">    int(randbool())</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure></p>
+<h3>画图</h3>
+<p>在julia中, 画图有多种方法: http://docs.juliaplots.org/latest/backends/</p>
+<ol>
+<li>调用python中的画图matplotlib.pyplot. 需要提前安装<code>pycall</code>, 然后使用<code>pyplot</code>. 主要的用法和python中几乎一致.
+<figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">using</span> PyCall</span><br><span class="line"><span class="keyword">using</span> PyPlot</span><br><span class="line">pygui(<span class="literal">true</span>)</span><br><span class="line">x = collect(<span class="number">0</span>:<span class="number">2</span>*<span class="literal">pi</span>/<span class="number">1000</span>:<span class="number">2</span>*<span class="literal">pi</span>)</span><br><span class="line">y = sin.(<span class="number">3</span>*x + <span class="number">4</span>*cos.(<span class="number">2</span>*x))</span><br><span class="line">PyPlot.plot(x, y, color=<span class="string">"red"</span>, linewidth=<span class="number">2.0</span>, linestyle=<span class="string">"--"</span>)</span><br><span class="line">title(<span class="string">L"Plot of $\Gamma_3(x)$"</span>) <span class="comment"># latex</span></span><br><span class="line">xlabel(<span class="string">"x"</span>,fontsize=<span class="number">14</span>,color=<span class="string">"red"</span>)</span><br><span class="line">ylabel(<span class="string">"sin(3x + 4cos(2x))"</span>)</span><br></pre></td></tr></table></figure></li>
+</ol>
+<p>具体内容可以参考: https://github.com/JuliaPy/PyPlot.jl</p>
+<ol start="2">
+<li>
+<p>使用<code>Plots</code></p>
+</li>
+<li>
+<p>使用<code>GR</code></p>
+</li>
+</ol>
+<h3>CVX</h3>
+<p>CVX是解决凸优化问题的扩展包, 已有MATLAB版本和Python版本(cvxpy). 在Julia中也有此扩展包, 其主要用法可以参考&quot;<a href="https://web.stanford.edu/~boyd/papers/pdf/convexjl.pdf" target="_blank" rel="noopener">Convex Optimization in Julia</a>&quot;和https://github.com/JuliaOpt/Convex.jl.</p>
+<h3>存储数据</h3>
+<p>使用<code>JLD</code>扩展包, 基本用法如下:
+<figure class="highlight julia"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">using</span> JLD</span><br><span class="line">t = <span class="number">15</span>; z = [<span class="number">1</span>,<span class="number">3</span>]</span><br><span class="line">save(<span class="string">"myfile.jld"</span>, <span class="string">"t"</span>, t, <span class="string">"arr"</span>, z)</span><br><span class="line">d = load(<span class="string">"myfile.jld"</span>); t = d[<span class="string">"t"</span>]; z = d[<span class="string">"arr"</span>]</span><br></pre></td></tr></table></figure></p>
+<h2>Atom的配置</h2>
+<p>遇到的问题:</p>
+<ol>
+<li>Atom 1.39以上版本会出现一定的不兼容, 推荐暂时使用1.38版本.</li>
+<li>Juliapro多核运行时会出现环境问题, 非常麻烦, 不推荐使用.</li>
+</ol>
+<h2>参考内容</h2>
+<ol>
+<li>https://docs.julialang.org/en/v1/manual/getting-started/</li>
+<li>https://www.w3cschool.cn/julia/13yv1jf2.html</li>
+</ol>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Julia/" rel="tag"><i class="fa fa-tag"></i> Julia</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/09/08/Matlab-plot/" rel="next" title="Matlab.plot">
+                <i class="fa fa-chevron-left"></i> Matlab.plot
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image" src="/images/yinghui.png" alt="Yinghui He">
+            
+              <p class="site-author-name" itemprop="name">Yinghui He</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-name">posts</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-name">categories</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-name">tags</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/hyh6540" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-github"></i>GitHub</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="mailto:2014hyh@zju.edu.cn" target="_blank" title="E-Mail">
+                      
+                        <i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#undefined"><span class="nav-number">1.</span> <span class="nav-text">基本内容</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.1.</span> <span class="nav-text">函数</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.2.</span> <span class="nav-text">类型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.3.</span> <span class="nav-text">矩阵</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.4.</span> <span class="nav-text">并行计算</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.5.</span> <span class="nav-text">画图</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.6.</span> <span class="nav-text">CVX</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#undefined"><span class="nav-number">1.7.</span> <span class="nav-text">存储数据</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#undefined"><span class="nav-number">2.</span> <span class="nav-text">Atom的配置</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#undefined"><span class="nav-number">3.</span> <span class="nav-text">参考内容</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Yinghui He</span>
+
+  
+</div>
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+      });
+    </script>
+
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for (i=0; i < all.length; i += 1) {
+          all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+      });
+    </script>
+    <script type="text/javascript" src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+
+  
+
+  
+
+</body>
+</html>
