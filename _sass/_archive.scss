@@ -15,18 +15,16 @@
   }
 
   a {
-    text-decoration: auto;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
 
       img {
-         box-shadow: 0 0 10px rgba(#900, 0.25);
+        box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
-    
-      }
-    
+  }
 }
 
 .archive__subtitle {
@@ -78,7 +76,7 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 5px rgba(#000, 0.25);
+    box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
   .archive__item-title {
