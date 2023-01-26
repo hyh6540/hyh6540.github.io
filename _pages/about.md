@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth year (2018-) Ph.D. student with the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu. I obtained my bachelor degree in Information Engineering from Zhejiang University in 2018. My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>google scholar citations <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a fifth year (2018-) Ph.D. student with the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu. I obtained my bachelor degree in Information Engineering from Zhejiang University in 2018. My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1200+</span></strong></a>!
 
 
 
