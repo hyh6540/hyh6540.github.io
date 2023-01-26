@@ -16,17 +16,19 @@ I am a fifth year (2018-) Ph.D. student with the College of Information Science 
 
 
 # 🎓 Educations 
-- *2018.09 - Now*, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
-- *2014.09 - 2018.06*, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
- 
+- *2018.09 - Now*, Ph.D. student, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
+- *2014.09 - 2018.06*, Bachelor degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
+
+
+# 📝 Preprints
+
+- `Y. He`, G. Yu, Y. Cai, and H. Luo, “Integrated sensing, computation, and communication: System framework and performance optimization,”  2022, arXiv:2211.04022
 
 # 📝 Publications 
 
-### English 
----
 - `Y. He`, Y. Cai, H. Mao, and G. Yu, “RIS-assisted communication radar coexistence: Joint beamforming design and analysis,” IEEE J. Sel. Areas Commun., vol. 40, no. 7, pp. 2131–2145, Jul. 2022.
 
-- `Y. He`, Y. Cai, and G. Yu, “Joint transceiver design for dual-functional full-duplex relay aided radar-communication systems,”IEEE Trans. Commun., early access, doi: 10.1109/TCOMM.2022.3216334.
+- `Y. He`, Y. Cai, and G. Yu, “Joint transceiver design for dual-functional full-duplex relay aided radar-communication systems,” IEEE Trans. Commun., early access, doi: 10.1109/TCOMM.2022.3216334.
 
 
 - J. Liu, `Y. He`, C. Xiao, J. Han, L. Cheng, and K. Ren, “Physical-world attack towards WiFi-based behavior recognition,” in IEEE INFOCOM, May 2022, pp. 1–10.
