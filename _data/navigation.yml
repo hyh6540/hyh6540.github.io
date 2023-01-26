@@ -6,14 +6,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Preprints"
+    url: "/#-preprints"
+
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Conferences"
-    url: "/#-conferences"
-
-  - title: "Internships"
-    url: "/#-internships"

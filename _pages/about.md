@@ -8,10 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth year (2018-) Ph.D. student with the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu. I obtained my bachelor degree in Information Engineering from Zhejiang University in 2018. My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. 
+I am a fifth year (2018-) Ph.D. student with the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu. I obtained my bachelor degree in Information Engineering from Zhejiang University in 2018. My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>google scholar citations <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
