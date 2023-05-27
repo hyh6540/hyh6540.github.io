@@ -9,9 +9,12 @@ main:
   - title: "Preprints"
     url: "/#-preprints"
 
-  - title: "Publications"
-    url: "/#-publications"
-
+  - title: "Journal"
+    url: "/#-journal"
+    
+  - title: "Conference"
+    url: "/#-conference"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
