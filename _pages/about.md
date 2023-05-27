@@ -33,7 +33,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 - `Y. He`, G. Yu, Y. Cai, and H. Luo, "Integrated sensing, computation, and communication: System framework and performance optimization,"  2022, arXiv:2211.04022
 
-# 📝 Journal (Selected)
+# :bookmark_tabs: Journal (Selected)
 - M. Zhang, `Y. He`, Y. Cai, and G. Yu, "Design and performance analysis for wireless legitimate surveillance systems with radar function, IEEE Trans. Commun., early access, doi: 10.1109/TCOMM.2023.3246630.
 - `Y. He`, Y. Cai, H. Mao, and G. Yu, "RIS-assisted communication radar coexistence: Joint beamforming design and analysis," IEEE J. Sel. Areas Commun., vol. 40, no. 7, pp. 2131–2145, Jul. 2022.
 - `Y. He`, Y. Cai, and G. Yu, "Joint transceiver design for dual-functional full-duplex relay aided radar-communication systems," IEEE Trans. Commun., vol. 70, no. 12, pp. 8355--8369, Dec. 2022.
@@ -48,7 +48,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 -	J. Ren, G. Yu, Y. Cai, and `Y. He`, "Latency optimization for resource allocation in mobile-edge computation offloading," IEEE Trans. Wireless Commun., vol. 17, no. 8, pp. 5506–5519, Aug. 2018. 
 - L. Deng, `Y. He`, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040–3054, Dec. 2018.
 
-# 📝 Conference (Selected)
+# :bookmark: Conference (Selected)
 - `Y. He`, J. Ren, G. Yu, and J. Yuan, "Resource allocation for wireless federated edge learning based on data importance," in Proc. IEEE GLOBECOM, Dec. 2020, pp. 1–6.
 - `Y. He`, J. Ren, G. Yu, and Y. Cai, "Optimizing the learning accuracy in mobile augmented reality systems with CNN," in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020, pp. 1–6.
 - `Y. He`, J. Ren, G. Yu, and Y. Cai, "Joint computation offloading and resource allocation in D2D enabled MEC networks,"in Proc. IEEE ICC, Oct. 2019, pp. 1–6.
