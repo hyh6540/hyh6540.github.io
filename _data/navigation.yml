@@ -10,7 +10,7 @@ main:
     url: "/#-preprints"
 
  - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publications-selected"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
