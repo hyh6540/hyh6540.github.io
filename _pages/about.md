@@ -19,7 +19,7 @@ redirect_from:
 
 I am a fifth-year (2018-) Ph.D. student with the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu and Prof. Yunlong Cai. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
 
-My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 20 papers with total <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'> being 1500+</span></strong></a>!
+My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 20 papers with total <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>google scholar citations being <strong><span id='total_cit'> 1500+</span></strong></a>!
 
 
 
