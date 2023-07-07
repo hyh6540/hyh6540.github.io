@@ -33,7 +33,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 - **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," conditionally accepted by ACM MobiCom, 2023. (CCF-A, acceptance rate: 24.4%)
 
-# 📝 Publications (Selected)
+# 📝 Selected Publications 
 
 ## Journal
 
