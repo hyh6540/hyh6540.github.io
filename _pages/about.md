@@ -52,11 +52,12 @@ My research focuses on wireless communication, integrated sensing and communicat
 - L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018.
 
 ## Conference
+
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Performance optimization in integrated sensing, computation, and communication systems," in Proc. IEEE ICC, Roma, Italy, May 2023, pp. 1--6.
 - J. Liu, **Y. He**, C. Xiao, J. Han, L. Cheng, and K. Ren, "Physical-world attack towards WiFi-based behavior recognition," in IEEE INFOCOM, May 2022, pp. 1--10.
 - **Y. He**, J. Ren, G. Yu, and J. Yuan, "Resource allocation for wireless federated edge learning based on data importance," in Proc. IEEE GLOBECOM, Dec. 2020, pp. 1--6.
 - **Y. He**, J. Ren, G. Yu, and Y. Cai, "Optimizing the learning accuracy in mobile augmented reality systems with CNN," in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020, pp. 1--6.
-- **Y. He**, J. Ren, G. Yu, and Y. Cai, "Joint computation offloading and resource allocation in D2D enabled MEC networks,"in Proc. IEEE ICC, Oct. 2019, pp. 1--6.
+- **Y. He**, J. Ren, G. Yu, and Y. Cai, "Joint computation offloading and resource allocation in D2D enabled MEC networks," in Proc. IEEE ICC, Oct. 2019, pp. 1--6.
 - J. Ren, **Y. He**, G. Yu, and G. Y. Li, "Joint communication and computation resource allocation for cloud-edge collaborative system," in Proc. IEEE WCNC, Marrakech, Morocco, Apr. 2019, pp. 1--6.
 - J. Ren, G. Yu, Y. Cai, **Y. He**, and F. Qu, "Partial offloading for latency minimization in mobile-edge computing," in Proc. IEEE GLOBECOM, Dec. 2017, pp. 1--6.
 - W. Liu, J. Ren, G. Huang, **Y. He**, and G. Yu, "Data offloading and sharing for latency minimization in augmented reality based on mobile edge computing," in Proc. IEEE VTC-Fall, 2018, pp. 1--5.
