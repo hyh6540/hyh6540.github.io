@@ -31,7 +31,8 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 📝 Preprints
 
-
+- **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," accepted by ACM MobiCom, 2023. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf)
+- 
 # 📝 Selected Publications 
 
 ## Journal
@@ -52,7 +53,6 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 ## Conference
 
-- **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," accepted by ACM MobiCom, 2023. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf)
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Performance optimization in integrated sensing, computation, and communication systems," in Proc. IEEE ICC, Roma, Italy, May 2023, pp. 1--6.
 - J. Liu, **Y. He**, C. Xiao, J. Han, L. Cheng, and K. Ren, "Physical-world attack towards WiFi-based behavior recognition," in IEEE INFOCOM, May 2022, pp. 1--10.
 - **Y. He**, J. Ren, G. Yu, and J. Yuan, "Resource allocation for wireless federated edge learning based on data importance," in Proc. IEEE GLOBECOM, Dec. 2020, pp. 1--6.
