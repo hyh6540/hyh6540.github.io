@@ -25,7 +25,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 🎓 Educations 
 
-- *2018.09 - 2023.09*, Ph.D. degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
+- *2018.09 - 2023.09*, Ph.D., College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
 - *2014.09 - 2018.06*, Bachelor's degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
 
 
