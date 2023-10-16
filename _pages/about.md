@@ -35,7 +35,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 ## Journal
 
-- **Y. He**, G. Yu, Y. Cai, and H. Luo, "Integrated sensing, computation, and communication: System framework and performance optimization," accepted by IEEE Trans. Wireless Commun., 2023.
+- **Y. He**, G. Yu, Y. Cai, and H. Luo, "Integrated sensing, computation, and communication: System framework and performance optimization," accepted by IEEE Trans. Wireless Commun., 2023. [[PDF]](pdf/He_TWC_2023_ISCC.pdf) 
 - J. Liu, **Y. He**, C. Xiao, J. Han, and K. Ren, "Time to think the security of WiFi-based behavior recognition systems," IEEE Trans. Depend. Sec. Comput., early access, doi: 10.1109/TDSC.2023.3261328.
 - M. Zhang, **Y. He**, Y. Cai, and G. Yu, "Design and performance analysis for wireless legitimate surveillance systems with radar function," IEEE Trans. Commun., vol. 71, no. 4, pp. 2517--2531, Apr. 2023.
 - **Y. He**, Y. Cai, H. Mao, and G. Yu, "RIS-assisted communication radar coexistence: Joint beamforming design and analysis," IEEE J. Sel. Areas Commun., vol. 40, no. 7, pp. 2131--2145, Jul. 2022.
