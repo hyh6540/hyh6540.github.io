@@ -61,6 +61,9 @@ My research focuses on wireless communication, integrated sensing and communicat
 - J. Ren, G. Yu, Y. Cai, **Y. He**, and F. Qu, "Partial offloading for latency minimization in mobile-edge computing," in Proc. IEEE GLOBECOM, Dec. 2017, pp. 1--6.
 - W. Liu, J. Ren, G. Huang, **Y. He**, and G. Yu, "Data offloading and sharing for latency minimization in augmented reality based on mobile edge computing," in Proc. IEEE VTC-Fall, 2018, pp. 1--5.
 
+## Miscellaneous
+- [《兼容并包：从CSI看感知与通信的协同融合》](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=6907618168801280)，《中国计算机学会通讯》
+
 # 🏅 Honors and Awards
 
 - *2020.10*  National Scholarship
