@@ -29,8 +29,6 @@ My research focuses on wireless communication, integrated sensing and communicat
 - *2014.09 - 2018.06*, Bachelor's degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
 
 
-# 📝 Preprints
-
 # 📝 Selected Publications 
 
 ## Journal
