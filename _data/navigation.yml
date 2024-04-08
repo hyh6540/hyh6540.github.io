@@ -6,9 +6,6 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Preprints"
-    url: "/#-preprints"
-
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
