@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research fellow at the School of Computer Science and Engineering, Nanyang Technological University. I received Ph.D. degree from the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
+I am currently a research fellow at the School of Computer Science and Engineering, Nanyang Technological University. I received a Ph.D. degree from the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
 
 My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 20 papers with <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>total google scholar citations being <strong><span id='total_cit'> 1800+</span></strong></a>!
 
@@ -25,9 +25,8 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 🎓 Educations 
 
-- *2018.09 - 2023.09*, Ph.D., College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
+- *2018.09 - 2023.09*, Ph.D. degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
 - *2014.09 - 2018.06*, Bachelor's degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou China. 
-
 
 # 📝 Selected Publications 
 (* means co-first author or corresponding author)
@@ -48,7 +47,6 @@ My research focuses on wireless communication, integrated sensing and communicat
 - L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018.
 
 ## Conference
-
 - **Y. He***, J. Liu*, M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," in Proc. ACM MobiCom, Madrid, Spain, Oct. 2023, pp. 1--16. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf) [[PPT]](pdf/He_mobicom_2023_isac_wifi.pptx)
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Performance optimization in integrated sensing, computation, and communication systems," in Proc. IEEE ICC, Roma, Italy, May 2023, pp. 1--6.
 - J. Liu, **Y. He**, C. Xiao, J. Han, L. Cheng, and K. Ren, "Physical-world attack towards WiFi-based behavior recognition," in Proc. IEEE INFOCOM, May 2022, pp. 1--10. (CCF-A)
