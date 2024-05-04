@@ -31,7 +31,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 # 📝 Selected Publications 
 (* means co-first author or corresponding author)
 ## Journal
-- Q. Chen, **Y. He***, G. Yu, C. Xu, M. Liu, and Z. Li, "KBMP: Kubernetes-orchestrated IoT online battery monitoring platform," IEEE Internet Things J., early access, 2024.
+- Q. Chen, **Y. He** *, G. Yu, C. Xu, M. Liu, and Z. Li, "KBMP: Kubernetes-orchestrated IoT online battery monitoring platform," IEEE Internet Things J., early access, 2024.
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Integrated sensing, computation, and communication: System framework and performance optimization," IEEE Trans. Wireless Commun., vol. 23, no. 2, pp. 1114--1128, Feb. 2024. [[PDF]](pdf/He_TWC_2023_ISCC.pdf) 
 - J. Liu, **Y. He**, C. Xiao, J. Han, and K. Ren, "Time to think the security of WiFi-based behavior recognition systems," IEEE Trans. Depend. Sec. Comput., vol. 21, no. 1, pp. 449--462, Jan.-Feb. 2024.
 - M. Zhang, **Y. He**, Y. Cai, and G. Yu, "Design and performance analysis for wireless legitimate surveillance systems with radar function," IEEE Trans. Commun., vol. 71, no. 4, pp. 2517--2531, Apr. 2023.
@@ -47,7 +47,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 - L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018.
 
 ## Conference
-- **Y. He***, J. Liu*, M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," in Proc. ACM MobiCom, Madrid, Spain, Oct. 2023, pp. 1--16. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf) [[PPT]](pdf/He_mobicom_2023_isac_wifi.pptx)
+- **Y. He** *, J. Liu *, M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," in Proc. ACM MobiCom, Madrid, Spain, Oct. 2023, pp. 1--16. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf) [[PPT]](pdf/He_mobicom_2023_isac_wifi.pptx)
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Performance optimization in integrated sensing, computation, and communication systems," in Proc. IEEE ICC, Roma, Italy, May 2023, pp. 1--6.
 - J. Liu, **Y. He**, C. Xiao, J. Han, L. Cheng, and K. Ren, "Physical-world attack towards WiFi-based behavior recognition," in Proc. IEEE INFOCOM, May 2022, pp. 1--10. (CCF-A)
 - **Y. He**, J. Ren, G. Yu, and J. Yuan, "Resource allocation for wireless federated edge learning based on data importance," in Proc. IEEE GLOBECOM, Dec. 2020, pp. 1--6.
