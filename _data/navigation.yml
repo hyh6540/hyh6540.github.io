@@ -6,14 +6,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Conferences"
-    url: "/#-conferences"
-
-  - title: "Internships"
-    url: "/#-internships"
