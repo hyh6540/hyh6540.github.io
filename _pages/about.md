@@ -31,7 +31,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 # 📝 Selected Publications 
 ## Journal
 - **Y. He**, G. Yu, Z. Tang, J. Wang, and H. Luo, "A dual-functional sensing-communication waveform design based on OFDM," accepted by IEEE Trans. Wireless Commun., 2024.
-- **Y. He**, J. Liu (co-first author), M. Li, G. Yu, and J. Han, "Forward-compatible integrated sensing and communication for WiFi," accepted by IEEE J. Sel. Areas Commun., 2024. [[PDF]](pdf/JSAC24_ISAC_WiFi.pdf) 
+- **Y. He**, J. Liu (co-first author), M. Li, G. Yu, and J. Han, "Forward-compatible integrated sensing and communication for WiFi," IEEE J. Sel. Areas Commun., vol. 42, no. 9, pp. 2440--2456, Sep. 2024. [[PDF]](pdf/JSAC24_ISAC_WiFi.pdf) 
 - Q. Chen, **Y. He** (corresponding author), G. Yu, C. Xu, M. Liu, and Z. Li, "KBMP: Kubernetes-orchestrated IoT online battery monitoring platform," IEEE Internet Things J., vol. 11, no. 14, pp. 25358--25370, Jul. 2024. [[PDF]](pdf/IOTJ24_KBMP.pdf) 
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Integrated sensing, computation, and communication: System framework and performance optimization," IEEE Trans. Wireless Commun., vol. 23, no. 2, pp. 1114--1128, Feb. 2024. [[PDF]](pdf/He_TWC_2023_ISCC.pdf) [[PPT]](pdf/He_TWC_2023_ISCC.pptx)
 - J. Liu, **Y. He**, C. Xiao, J. Han, and K. Ren, "Time to think the security of WiFi-based behavior recognition systems," IEEE Trans. Depend. Sec. Comput., vol. 21, no. 1, pp. 449--462, Jan.-Feb. 2024.
