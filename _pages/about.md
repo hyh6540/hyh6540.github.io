@@ -48,7 +48,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 - L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018.
 
 ## Conference
-- M. Xu, **Y. He** (co-first author), X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, "Beamforming made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery," in Proc. ACM MobiCom, 2024, pp. 1--16. (CCF-A, acceptance rate: 103/494=20.9%)  [[PDF]](pdf/MobiCom24_BeamCraft.pdf)
+- M. Xu, **Y. He** (co-first author), X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, "Beamforming made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery," in Proc. ACM MobiCom, 2024, pp. 1--15. (CCF-A, acceptance rate: 103/494=20.9%)  [[PDF]](pdf/MobiCom24_BeamCraft.pdf)
 - **Y. He**, Y. Cai, and G. Yu, "Beamforming design with bilevel optimization for RIS-assisted SWIPT systems," in Proc. IEEE ICC Workshop-NGATFWN, CO, USA, Jun. 2024, pp. 1--6 [[PDF]](pdf/ICC2024-bilevel.pdf) [[PPT]](pdf/ICC2024-bilevel.pptx) ([Workshop Best Paper Award](pdf/ICC2024-bilevel.jpg))
 - J. Liu, **Y. He**, W. Xu, Y, Xie, and J, Han, "Manipulating semantic communication by adding adversarial perturbations to wireless channel," accepted by Proc. IEEE IWQoS, 2024. [[PDF]](pdf/IWQoS24_attack_semantic.pdf)
 - **Y. He**, J. Liu (co-first author), M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," in Proc. ACM MobiCom, Madrid, Spain, Oct. 2023, pp. 1--16. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf) [[PPT]](pdf/He_mobicom_2023_isac_wifi.pptx)
