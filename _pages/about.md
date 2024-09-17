@@ -30,7 +30,6 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 📝 Selected Publications 
 ## Journal
-- D. Wang, W. Chen, **Y. He**, J. Wang, H. Luo, G. Yu, "Experimental Study on ISAC Performance with Different Sensing Sequences", accepted by IEEE Communications Letters, 2024.
 - **Y. He**, G. Yu, Z. Tang, J. Wang, and H. Luo, "A dual-functional sensing-communication waveform design based on OFDM," accepted by IEEE Trans. Wireless Commun., 2024. [[PDF]](pdf/He_TWC_2024_Waveform.pdf) 
 - **Y. He**, J. Liu (co-first author), M. Li, G. Yu, and J. Han, "Forward-compatible integrated sensing and communication for WiFi," IEEE J. Sel. Areas Commun., vol. 42, no. 9, pp. 2440--2456, Sep. 2024. [[PDF]](pdf/JSAC24_ISAC_WiFi.pdf) 
 - Q. Chen, **Y. He** (corresponding author), G. Yu, C. Xu, M. Liu, and Z. Li, "KBMP: Kubernetes-orchestrated IoT online battery monitoring platform," IEEE Internet Things J., vol. 11, no. 14, pp. 25358--25370, Jul. 2024. [[PDF]](pdf/IOTJ24_KBMP.pdf) 
