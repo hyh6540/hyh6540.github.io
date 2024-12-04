@@ -52,7 +52,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 </div>
 
 ## Conference
-- R. Xiao, X. Chen, **Y. He**, J. Han, and J. Han, "Lend Me Your Beam: Privacy Implications of Beamforming Feedback Packets in WiFi," accepted by ISOC NDSS'25.
+- R. Xiao, X. Chen, **Y. He**, J. Han, and J. Han, "Lend Me Your Beam: Privacy Implications of Beamforming Feedback Packets in WiFi," accepted by ISOC NDSS'25. [[PDF]](pdf/NDSS25-leakybeam.pdf)
 - M. Xu, **Y. He** (co-first author), X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, "Beamforming made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery," in Proc. ACM MobiCom, 2024, pp. 1--15. (CCF-A, acceptance rate: 103/494=20.9%) [[PDF]](pdf/MobiCom24_BeamCraft.pdf)
 - **Y. He**, Y. Cai, and G. Yu, "Beamforming design with bilevel optimization for RIS-assisted SWIPT systems," in Proc. IEEE ICC Workshop-NGATFWN, CO, USA, Jun. 2024, pp. 1--6 [[PDF]](pdf/ICC2024-bilevel.pdf) [[PPT]](pdf/ICC2024-bilevel.pptx) ([Workshop Best Paper Award](pdf/ICC2024-bilevel.jpg))
 - J. Liu, **Y. He**, W. Xu, Y, Xie, and J, Han, "Manipulating semantic communication by adding adversarial perturbations to wireless channel," in Proc. IEEE IWQoS, Guangzhou, China, Jun. 2024, pp. 1--10. [[PDF]](pdf/IWQoS24_attack_semantic.pdf)
