@@ -30,7 +30,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 📝 Selected Publications 
 ## Journal
-- W. Chen, **Y. He** (corresponding author), G. Yu, J. Wang, H. Luo, "Sensing Framework Design and Performance Optimization With Action Detection for ISCC," accepted by IEEE Trans. Wireless Commun., 2025.
+- W. Chen, **Y. He** (corresponding author), G. Yu, J. Wang, and H. Luo, "Sensing Framework Design and Performance Optimization With Action Detection for ISCC," accepted by IEEE Trans. Wireless Commun., 2025. [[PDF]](https://arxiv.org/pdf/2505.02554)
 - **Y. He**, G. Yu, Z. Tang, J. Wang, and H. Luo, "A dual-functional sensing-communication waveform design based on OFDM," IEEE Trans. Wireless Commun., vol. 23, no. 11, pp. 16962--16975, Nov. 2024. [[PDF]](pdf/He_TWC_2024_Waveform.pdf) [[Link (in Chineses)]](https://mp.weixin.qq.com/s/nKvOoKc22pvpO260474wUg)
 - D. Wang, W. Chen, **Y. He** (corresponding author), J. Wang, H. Luo, and G. Yu, "Experimental Study on ISAC Performance With Different Sensing Sequences," IEEE Commun. Lett., vol. 28, no. 11, pp. 2538--2542, Nov. 2024. [[PDF]](pdf/CL2024_ISAC.pdf) 
 - **Y. He**, J. Liu (co-first author), M. Li, G. Yu, and J. Han, "Forward-compatible integrated sensing and communication for WiFi," IEEE J. Sel. Areas Commun., vol. 42, no. 9, pp. 2440--2456, Sep. 2024. [[PDF]](pdf/JSAC24_ISAC_WiFi.pdf) 
