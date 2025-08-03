@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yinghui He"
-description              : "This is the academic homepage of Yinghui He."
+description              : # "This is the academic homepage of Yinghui He."
 repository               : "hyh6540/hyh6540.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinghui He"
   avatar           : "images/HYH.png"
-  bio              : "Nanyang Technological University"
+  bio              : "Research Fellow, Nanyang Technological University"
   location         : "Singapore"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
