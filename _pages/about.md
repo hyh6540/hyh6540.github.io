@@ -54,7 +54,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 </div>
 
 ## Conference
-- X. Li, **Y. He** (corresponding author), and J. Luo, "𝜇Ceiver-Fi: Exploiting Spectrum Resources of Multi-Link Receiver for Fine-Granularity Wi-Fi Sensing", accepted by ACM MobiCom, 2025. (CCF-A, acceptance rate in the winter session: 36/348=10.3%)
+- X. Li, **Y. He** (corresponding author), and J. Luo, "𝜇Ceiver-Fi: Exploiting Spectrum Resources of Multi-Link Receiver for Fine-Granularity Wi-Fi Sensing", accepted by ACM MobiCom, 2025. (CCF-A, acceptance rate in the winter session: 36/348=10.3%) [[PDF]](pdf/MobiCom25_muCeiver-Fi.pdf)
 - **Y. He**, M. Xu, Z. Chen, F. Xiao, and J. Luo, "Beam-Fi: Integrated Sensing and Communication via MU-MIMO upon Commodity Wi-Fi," in Proc. ACM IMWUT, Sep. 2025, pp. 1--21. (CCF-A)
 - **Y. He**, M. Xu, F. Xiao, and J. Luo, "VersaBeam: Versatile Beamforming for Integrated Sensing and Communication over Commodity Wi-Fi," in Proc. IEEE INFOCOM, 2025, pp. 1--10. (CCF-A, acceptance rate: 272/1458=18.7%) [[PDF]](pdf/INFOCOM25_VersaBeam.pdf)
 - R. Xiao, X. Chen, **Y. He**, J. Han, and J. Han, "Lend Me Your Beam: Privacy Implications of Beamforming Feedback Packets in WiFi," in Proc. ISOC NDSS, 2025, pp. 1--17. (CCF-A) [[PDF]](pdf/NDSS25-leakybeam.pdf)
