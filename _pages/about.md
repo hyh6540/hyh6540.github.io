@@ -46,7 +46,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 - J. Ren, **Y. He**, G. Huang, G. Yu, Y. Cai, and Z. Zhang, "An edge-computing based architecture for mobile augmented reality," IEEE Netw., vol. 33, no. 4, pp. 162--169, Jul. 2019.
 - J. Ren, G. Yu, **Y. He**, and G. Y. Li, "Collaborative cloud and edge computing for latency minimization," IEEE Trans. Veh. Techn., vol. 68, no. 5, pp. 5031--5044, May 2019. ([**Highly Cited Paper**](pdf/ESI_TVT19_CEC.jpg))
 - J. Ren, G. Yu, Y. Cai, and **Y. He**, "Latency optimization for resource allocation in mobile-edge computation offloading," IEEE Trans. Wireless Commun., vol. 17, no. 8, pp. 5506--5519, Aug. 2018. ([**Highly Cited Paper**](pdf/ESI_TWC19_MEC.jpg))
-- L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018.
+- L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018. [[PDF]](https://arxiv.org/pdf/1710.02636)
 
 
 <div style='display: none'>
