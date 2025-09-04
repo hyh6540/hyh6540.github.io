@@ -63,7 +63,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 - J. Liu, **Y. He**, W. Xu, Y, Xie, and J, Han, "Manipulating semantic communication by adding adversarial perturbations to wireless channel," in Proc. IEEE IWQoS, Guangzhou, China, Jun. 2024, pp. 1--10. [[PDF]](pdf/IWQoS24_attack_semantic.pdf)
 - **Y. He**, J. Liu (co-first author), M. Li, G. Yu, J. Han, and K. Ren, "SenCom: Integrated sensing and communication with practical WiFi," in Proc. ACM MobiCom, Madrid, Spain, Oct. 2023, pp. 1--16. (CCF-A, acceptance rate: 24.4%)  [[PDF]](pdf/He_mobicom_2023_isac_wifi.pdf) [[PPT]](pdf/He_mobicom_2023_isac_wifi.pptx)
 - **Y. He**, G. Yu, Y. Cai, and H. Luo, "Performance optimization in integrated sensing, computation, and communication systems," in Proc. IEEE ICC, Roma, Italy, May 2023, pp. 1--6.
-- J. Liu, **Y. He**, C. Xiao, J. Han, L. Cheng, and K. Ren, "Physical-world attack towards WiFi-based behavior recognition," in Proc. IEEE INFOCOM, May 2022, pp. 1--10. (CCF-A)
+- J. Liu, **Y. He**, C. Xiao, J. Han, L. Cheng, and K. Ren, "Physical-world attack towards WiFi-based behavior recognition," in Proc. IEEE INFOCOM, May 2022, pp. 1--10. (CCF-A) [[PDF]](pdf/INFOCOM22_WiFiSensing_Attack.pdf)
 - **Y. He**, J. Ren, G. Yu, and J. Yuan, "Resource allocation for wireless federated edge learning based on data importance," in Proc. IEEE GLOBECOM, Dec. 2020, pp. 1--6.
 - **Y. He**, J. Ren, G. Yu, and Y. Cai, "Optimizing the learning accuracy in mobile augmented reality systems with CNN," in Proc. IEEE ICC, Dublin, Ireland, Jun. 2020, pp. 1--6.
 - **Y. He**, J. Ren, G. Yu, and Y. Cai, "Joint computation offloading and resource allocation in D2D enabled MEC networks," in Proc. IEEE ICC, Oct. 2019, pp. 1--6.
