@@ -40,12 +40,12 @@ My research focuses on wireless communication, integrated sensing and communicat
 - **Y. He**, Y. Cai, H. Mao, and G. Yu, "RIS-assisted communication radar coexistence: Joint beamforming design and analysis," IEEE J. Sel. Areas Commun., vol. 40, no. 7, pp. 2131--2145, Jul. 2022. [[PDF]](pdf/JSAC22_RIS_ISAC.pdf) ([**Highly Cited Paper**](pdf/ESI_JSAC22_RIS_ISAC.jpg))
 - **Y. He**, Y. Cai, and G. Yu, "Joint transceiver design for dual-functional full-duplex relay aided radar-communication systems," IEEE Trans. Commun., vol. 70, no. 12, pp. 8355--8369, Dec. 2022.
 - **Y. He**, J. Ren, G. Yu, and J. Yuan, "Importance-aware data selection and resource allocation in federated edge learning system," IEEE Trans. Veh. Technol., vol. 69, no. 11, pp. 13593--13605, Nov. 2020.
-- J. Ren, **Y. He**, D. Wen, G. Yu, K. Huang, and D. Guo, "Scheduling for cellular federated edge learning with importance and channel awareness," IEEE Trans. Wireless Commun., vol. 19, no. 11, pp. 7690--7703, Nov. 2020.
+- J. Ren, **Y. He**, D. Wen, G. Yu, K. Huang, and D. Guo, "Scheduling for cellular federated edge learning with importance and channel awareness," IEEE Trans. Wireless Commun., vol. 19, no. 11, pp. 7690--7703, Nov. 2020. [[PDF]](https://arxiv.org/abs/2004.00490)
 - **Y. He**, J. Ren, G. Yu, and Y. Cai, "Optimizing the learning performance in mobile augmented reality systems with CNN," IEEE Trans. Wireless Commun., vol. 19, no. 8, pp. 5333--5344, Aug. 2020.
 - **Y. He**, J. Ren, G. Yu, and Y. Cai, "D2D communications meet mobile edge computing for enhanced computation capacity in cellular networks," IEEE Trans. Wireless Commun., vol. 18, no. 3, pp. 1750--1763, Mar. 2019.
-- J. Ren, **Y. He**, G. Huang, G. Yu, Y. Cai, and Z. Zhang, "An edge-computing based architecture for mobile augmented reality," IEEE Netw., vol. 33, no. 4, pp. 162--169, Jul. 2019.
+- J. Ren, **Y. He**, G. Huang, G. Yu, Y. Cai, and Z. Zhang, "An edge-computing based architecture for mobile augmented reality," IEEE Netw., vol. 33, no. 4, pp. 162--169, Jul. 2019. [[PDF]](https://arxiv.org/pdf/1810.02509)
 - J. Ren, G. Yu, **Y. He**, and G. Y. Li, "Collaborative cloud and edge computing for latency minimization," IEEE Trans. Veh. Techn., vol. 68, no. 5, pp. 5031--5044, May 2019. ([**Highly Cited Paper**](pdf/ESI_TVT19_CEC.jpg))
-- J. Ren, G. Yu, Y. Cai, and **Y. He**, "Latency optimization for resource allocation in mobile-edge computation offloading," IEEE Trans. Wireless Commun., vol. 17, no. 8, pp. 5506--5519, Aug. 2018. ([**Highly Cited Paper**](pdf/ESI_TWC19_MEC.jpg))
+- J. Ren, G. Yu, Y. Cai, and **Y. He**, "Latency optimization for resource allocation in mobile-edge computation offloading," IEEE Trans. Wireless Commun., vol. 17, no. 8, pp. 5506--5519, Aug. 2018. [[PDF]](https://arxiv.org/pdf/1704.00163) ([**Highly Cited Paper**](pdf/ESI_TWC19_MEC.jpg))
 - L. Deng, **Y. He**, Y. Zhang, M. Chen, Z. Li, J. Y. B. Lee, Y. Zhang, and L. Song, "Device-to-device load balancing for cellular networks," IEEE Trans. Commun., vol. 67, no. 4, pp. 3040--3054, Dec. 2018. [[PDF]](https://arxiv.org/pdf/1710.02636)
 
 
