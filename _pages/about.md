@@ -73,8 +73,8 @@ My research focuses on wireless communication, integrated sensing and communicat
 - [《兼容并包：从CSI看感知与通信的协同融合》](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=6907618168801280)，《中国计算机学会通讯》
 
 # 🏅 Honors and Awards
-- *2025.09*  [Top 2% Scientists Worldwide 2025 by Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)
-- *2024.09*  [Top 2% Scientists Worldwide 2024 by Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
+- *2025.09*  [Top 2% Scientists Worldwide 2024 by Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)
+- *2024.09*  [Top 2% Scientists Worldwide 2023 by Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 - *2024.06* IEEE ICC Workshop-NGATFWN Best Paper Award
 - *2020.10*  National Scholarship
 - *2016.10*  National Scholarship
