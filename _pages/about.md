@@ -28,6 +28,10 @@ My research focuses on wireless communication, integrated sensing and communicat
 - *2018.09 - 2023.09*, Ph.D. degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, China. 
 - *2014.09 - 2018.06*, Bachelor's degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, China. 
 
+# 📚 Experiences
+- *2023.11 – now*, Research Fellow, College of Computing and Data Science, Nanyang Technological University, Singapore.
+- *2017.07 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
+
 # 📝 Selected Publications 
 ## Journal
 - W. Chen, **Y. He (corresponding author)**, G. Yu, J. Wang, and H. Luo, "Sensing Framework Design and Performance Optimization With Action Detection for ISCC," accepted by IEEE Trans. Wireless Commun., 2025. [[PDF]](https://arxiv.org/pdf/2505.02554)
@@ -78,4 +82,10 @@ My research focuses on wireless communication, integrated sensing and communicat
 - *2024.06* IEEE ICC Workshop-NGATFWN Best Paper Award
 - *2020.10*  National Scholarship
 - *2016.10*  National Scholarship
+
+
+# 🌐 Professional Activities
+- Journal Reviewer: IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCCN, IEEE TCOM, IEEE IOTJ, etc.
+- TPC member for Conference: IEEE WCNC (2024--2026), IEEE WCSP (2021, 2023, 2024)
+
 
