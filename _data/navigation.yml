@@ -5,9 +5,15 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
+    
+  - title: "Experiences"
+    url: "/#-experiences"
+    
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Professional Activities"
+    url: "/#-professional-activities"
