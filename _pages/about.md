@@ -29,8 +29,9 @@ My research focuses on wireless communication, integrated sensing and communicat
 - *2014.09 - 2018.06*, Bachelor's degree, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, China. 
 
 # 📚 Experiences
+
 - *2023.11 – now*, Research Fellow, College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2017.07 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
+- *2017.0 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
 # 📝 Selected Publications 
 ## Journal
