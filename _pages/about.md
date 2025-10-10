@@ -86,7 +86,8 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 
 # 🌐 Professional Activities
-- Journal Reviewer: IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCCN, IEEE TCOM, IEEE IOTJ, etc.
-- TPC member for Conference: IEEE WCNC (2024--2026), IEEE WCSP (2021, 2023, 2024)
+- Journal reviewer: IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCCN, IEEE TCOM, IEEE IOTJ, etc
+- Distinguished reviewers for ACM TIOT
+- TPC member for conference: IEEE WCNC (2024--2026), IEEE WCSP (2021, 2023, 2024)
 
 
