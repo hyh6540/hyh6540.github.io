@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University. I received a Ph.D. degree from the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
+I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Jun Luo. I received a Ph.D. degree from the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
 
 My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 40 papers (including **4 highly cited papers**) with <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>total google scholar citations being <strong><span id='total_cit'> 2800+</span></strong></a>!
 
@@ -30,7 +30,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 📚 Experiences
 
-- *2023.11 – now*, Research Fellow, College of Computing and Data Science, Nanyang Technological University, Singapore.
+- *2023.11 – Now*, Research Fellow, College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2017.0 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
 # 📝 Selected Publications 
