@@ -31,7 +31,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 # 📚 Experiences
 
 - *2023.11 – Now*, Research Fellow, College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2017.0 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
+- *2017.07 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
 # 📝 Selected Publications 
 ## Journal
