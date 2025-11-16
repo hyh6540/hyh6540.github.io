@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University, working with Prof. Jun Luo (FIEEE). I received a Ph.D. degree from the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
+I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University. I received a Ph.D. degree from the College of Information Science and Electronic Engineering, Zhejiang University, supervised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. I obtained my bachelor's degree in Information Engineering from Zhejiang University in 2018. 
 
 My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 40 papers (including **4 highly cited papers**) with <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl=en'>total google scholar citations being <strong><span id='total_cit'> 2800+</span></strong></a>!
 
@@ -56,6 +56,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 <div style='display: none'>
 - Q. Chen, **Y. He** (corresponding author), G. Yu, C. Xu, M. Liu, and Z. Li, "KBMP: Kubernetes-orchestrated IoT online battery monitoring platform," IEEE Internet Things J., vol. 11, no. 14, pp. 25358--25370, Jul. 2024. [[PDF]](pdf/IOTJ24_KBMP.pdf)
+  , working with Prof. Jun Luo (FIEEE)
 </div>
 
 ## Conference
