@@ -34,7 +34,7 @@ My research focuses on wireless communication, integrated sensing and communicat
 
 # 📝 Selected Publications 
 ## Journal
-- **Y. He**, X. Li, and J. Luo, "Task-Oriented Integrated Sensing and Semantic Communications for Multi-Device Video Analytics," accepted by IEEE Trans. Mobile Comput., 2025. [[PDF]](pdf/TMC25_SenSem.pdf)
+- [TMC] **Y. He**, X. Li, and J. Luo, "Task-Oriented Integrated Sensing and Semantic Communications for Multi-Device Video Analytics," accepted by IEEE Trans. Mobile Comput., 2025. [[PDF]](pdf/TMC25_SenSem.pdf)
 - Z. Ye, Q. Xiao, J. Liu, **Y. He (corresponding author)**, G. Yu, and J. Han, "Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness," IEEE Trans. Mobile Comput., early access, doi:10.1109/TMC.2025.3640665, 2025. [[PDF]](pdf/TMC25_GraphFi.pdf)
 - Q. Xiao, Z. Ye, **Y. He (corresponding author)**, J. Liu, and G. Yu, "Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios," IEEE Trans. Commun., early access, doi:10.1109/TCOMM.2025.3637041, 2025. [[PDF]](https://arxiv.org/pdf/2511.14076)
 - W. Chen, **Y. He (corresponding author)**, G. Yu, J. Wang, and H. Luo, "Sensing Framework Design and Performance Optimization With Action Detection for ISCC," IEEE Trans. Wireless Commun., vol. 24, no. 10, pp. 8361--8375, Oct. 2025. [[PDF]](https://arxiv.org/pdf/2505.02554)
