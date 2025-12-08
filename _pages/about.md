@@ -33,8 +33,8 @@ My research focuses on wireless communication, integrated sensing and communicat
 - *2017.07 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
 # 🔔 News
-- [2025.12] Two papers are accepted by IEEE TMC.
-- [2025.11] One paper is accepted by IEEE TCOM.
+- [2025.12] Two papers are accepted in IEEE TMC. One paper is accepted at IEEE INFOCOM 2026.
+- [2025.11] One paper is accepted in IEEE TCOM.
 
 # 📝 Selected Publications 
 ## Journal
