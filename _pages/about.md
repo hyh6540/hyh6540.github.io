@@ -63,11 +63,12 @@ My research focuses on wireless communication, integrated sensing and communicat
 <div style='display: none'>
 - Q. Chen, **Y. He** (corresponding author), G. Yu, C. Xu, M. Liu, and Z. Li, "KBMP: Kubernetes-orchestrated IoT online battery monitoring platform," IEEE Internet Things J., vol. 11, no. 14, pp. 25358--25370, Jul. 2024. [[PDF]](pdf/IOTJ24_KBMP.pdf)
   , working with Prof. Jun Luo (FIEEE)
+
+  1. <b style="color:#5d9cec; font-weight:600;">[ACM UbiComp'25]</b> **Y. He**, M. Xu, Z. Chen, F. Xiao, and J. Luo, "[Beam-Fi: Integrated Sensing and Communication via MU-MIMO upon Commodity Wi-Fi](https://dl.acm.org/doi/10.1145/3749477)," in Proc. ACM IMWUT/UbiComp, Sep. 2025, pp. 1--21. (CCF-A) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3749477)
 </div>
 
 ## Conference
 1. <b style="color:#5d9cec; font-weight:600;">[ACM MobiCom'25]</b> X. Li, **Y. He (corresponding author)**, and J. Luo, "[𝜇Ceiver-Fi: Exploiting Spectrum Resources of Multi-Link Receiver for Fine-Granularity Wi-Fi Sensing](https://dl.acm.org/doi/10.1145/3680207.3765263)," in Proc. ACM MobiCom, Nov. 2025, pp. 1045--1059. (CCF-A, acceptance rate in the winter session: 36/348=10.3%) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3680207.3765263)
-1. <b style="color:#5d9cec; font-weight:600;">[ACM UbiComp'25]</b> **Y. He**, M. Xu, Z. Chen, F. Xiao, and J. Luo, "[Beam-Fi: Integrated Sensing and Communication via MU-MIMO upon Commodity Wi-Fi](https://dl.acm.org/doi/10.1145/3749477)," in Proc. ACM IMWUT/UbiComp, Sep. 2025, pp. 1--21. (CCF-A) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3749477)
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE INFOCOM'25]</b> **Y. He**, M. Xu, F. Xiao, and J. Luo, "[VersaBeam: Versatile Beamforming for Integrated Sensing and Communication over Commodity Wi-Fi](https://ieeexplore.ieee.org/document/11044469)," in Proc. IEEE INFOCOM, 2025, pp. 1--10. (CCF-A, acceptance rate: 272/1458=18.7%) [[PDF]](pdf/INFOCOM25_VersaBeam.pdf)
 1. <b style="color:#5d9cec; font-weight:600;">[ISOC NDSS'25]</b> R. Xiao, X. Chen, **Y. He**, J. Han, and J. Han, "[Lend Me Your Beam: Privacy Implications of Beamforming Feedback Packets in WiFi](https://www.ndss-symposium.org/ndss-paper/lend-me-your-beam-privacy-implications-of-plaintext-beamforming-feedback-in-wifi/)," in Proc. ISOC NDSS, 2025, pp. 1--17. (CCF-A) [[PDF]](pdf/NDSS25-leakybeam.pdf)
 1. <b style="color:#5d9cec; font-weight:600;">[ACM MobiCom'24]</b> M. Xu, **Y. He (co-first author)**, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, "[Beamforming made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery](https://dl.acm.org/doi/10.1145/3636534.3690669)," in Proc. ACM MobiCom, 2024, pp. 1--15. (CCF-A, acceptance rate: 103/494=20.9%) [[PDF]](pdf/MobiCom24_BeamCraft.pdf)
