@@ -33,11 +33,12 @@ My research focuses on wireless communication, integrated sensing and communicat
 - *2017.07 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
 # 🔔 News
-- [2025.12] Two papers are accepted in IEEE TMC. One paper is accepted at IEEE INFOCOM 2026.
+- [2025.12] Three papers are accepted in IEEE TMC. One paper is accepted at IEEE INFOCOM 2026.
 - [2025.11] One paper is accepted in IEEE TCOM.
 
 # 📝 Selected Publications 
 ## Journal
+1. <b style="color:#5d9cec; font-weight:600;">[IEEE TMC]</b> **Y. He**, M. Xu, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, "Traffic Manipulation via Beamforming Feedback Forgery in Practical Wi-Fi Systems," accepted in IEEE Trans. Mobile Comput. 
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE TMC]</b> **Y. He**, X. Li, and J. Luo, "[Task-Oriented Integrated Sensing and Semantic Communications for Multi-Device Video Analytics](https://ieeexplore.ieee.org/document/11288062)," IEEE Trans. Mobile Comput., early access, doi:10.1109/TMC.2025.3641899, 2025. [[PDF]](pdf/TMC25_SenSem.pdf)
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE TMC]</b> Z. Ye, Q. Xiao, J. Liu, **Y. He (corresponding author)**, G. Yu, and J. Han, "[Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness](https://ieeexplore.ieee.org/document/11278769)," IEEE Trans. Mobile Comput., early access, doi:10.1109/TMC.2025.3640665, 2025. [[PDF]](pdf/TMC25_GraphFi.pdf)
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE TCOM]</b> Q. Xiao, Z. Ye, **Y. He (corresponding author)**, J. Liu, and G. Yu, "[Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios](https://ieeexplore.ieee.org/document/11268513)," IEEE Trans. Commun., early access, doi:10.1109/TCOMM.2025.3637041, 2025. [[PDF]](https://arxiv.org/pdf/2511.14076)
