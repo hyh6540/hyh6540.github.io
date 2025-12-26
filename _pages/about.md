@@ -21,6 +21,7 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 
 My research focuses on wireless communication, integrated sensing and communication, and mobile edge computing. I have published more than 40 papers (including **4 highly cited papers**) with <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+If you have any questions or are interested in collaborating with me, please feel free to email me (yinghui.he@ntu.edu.sg).
 
 # 🎓 Educations 
 
