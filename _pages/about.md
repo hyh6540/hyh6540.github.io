@@ -98,6 +98,6 @@ If you have any questions or are interested in collaborating with me, please fee
 # 🌐 Professional Activities
 - Journal reviewer: IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCCN, IEEE TCOM, IEEE IOTJ, etc
 - Distinguished reviewer for [ACM TIOT](https://dl.acm.org/journal/tiot/editorial-board#distinguished-reviewers), [ACM TOSN](https://dl.acm.org/journal/tosn/editorial-board#distinguished-reviewer-board)
-- TPC member for conference: IEEE WCNC (2024--2026), IEEE WCSP (2021, 2023, 2024)
+- TPC member for conference: IEEE GLOBECOM (2026), IEEE WCNC (2024--2026), IEEE WCSP (2021, 2023, 2024)
 
 
