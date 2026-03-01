@@ -34,11 +34,13 @@ If you have any questions or are interested in collaborating with me, please fee
 - *2017.07 – 2017.10*, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
 # 🔔 News
+- [2026.02] One paper is accepted in IEEE JSAC.
 - [2025.12] Three papers are accepted in IEEE TMC. One paper is accepted at IEEE INFOCOM 2026.
 - [2025.11] One paper is accepted in IEEE TCOM.
 
 # 📝 Selected Publications 
 ## Journal
+1. <b style="color:#5d9cec; font-weight:600;">[IEEE JSAC]</b> K. Chi, **Y. He**, Q. Yang, Y. Shu, Z. Wang, J. Luo, and J. Chen, "DeepGuard: Defending Deep Joint Source-ChannelCoding Against Eavesdropping at Physical-Layer," accepted in IEEE J. Sel. Areas Commun., 2026.
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE TMC]</b> **Y. He**, M. Xu, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, "[Traffic Manipulation via Beamforming Feedback Forgery in Practical Wi-Fi Systems](https://ieeexplore.ieee.org/document/11320809)," IEEE Trans. Mobile Comput., early access, doi:10.1109/TMC.2025.3649818, 2025. [[PDF]](https://www.researchgate.net/publication/399104787_Traffic_Manipulation_via_Beamforming_Feedback_Forgery_in_Practical_Wi-Fi_Systems)
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE TMC]</b> **Y. He**, X. Li, and J. Luo, "[Task-Oriented Integrated Sensing and Semantic Communications for Multi-Device Video Analytics](https://ieeexplore.ieee.org/document/11288062)," IEEE Trans. Mobile Comput., early access, doi:10.1109/TMC.2025.3641899, 2025. [[PDF]](https://www.researchgate.net/publication/398514846_Task-Oriented_Integrated_Sensing_and_Semantic_Communications_for_Multi-Device_Video_Analytics)
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE TMC]</b> Z. Ye, Q. Xiao, J. Liu, **Y. He (corresponding author)**, G. Yu, and J. Han, "[Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness](https://ieeexplore.ieee.org/document/11278769)," IEEE Trans. Mobile Comput., early access, doi:10.1109/TMC.2025.3640665, 2025. [[PDF]](https://www.researchgate.net/publication/398396057_Practical_WiFi_Indoor_Localization_Unleashing_the_Potential_of_GNNs_for_Accuracy_and_Robustness)
