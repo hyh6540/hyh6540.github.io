@@ -72,6 +72,7 @@ If you have any questions or are interested in collaborating with me, please fee
 </div>
 
 ## Conference
+1. <b style="color:#5d9cec; font-weight:600;">[ACM/IEEE SenSys'26]</b>  L. Fan, **Y. He (co-first author)**, L. Xie, S. Zhang, J. Luo, "Sense with Polyface Mirror: Enhancing Wi-Fi Sensing Diversity via Programmable Metasurfaces," in Proc. ACM/IEEE SenSys, May, 2026. 
 1. <b style="color:#5d9cec; font-weight:600;">[ACM MobiCom'25]</b> X. Li, **Y. He (corresponding author)**, and J. Luo, "[𝜇Ceiver-Fi: Exploiting Spectrum Resources of Multi-Link Receiver for Fine-Granularity Wi-Fi Sensing](https://dl.acm.org/doi/10.1145/3680207.3765263)," in Proc. ACM MobiCom, Nov. 2025, pp. 1045--1059. (CCF-A, acceptance rate in the winter session: 36/348=10.3%) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3680207.3765263)
 1. <b style="color:#5d9cec; font-weight:600;">[ACM UbiComp'25]</b> **Y. He**, M. Xu, Z. Chen, F. Xiao, and J. Luo, "[Beam-Fi: Integrated Sensing and Communication via MU-MIMO upon Commodity Wi-Fi](https://dl.acm.org/doi/10.1145/3749477)," in Proc. ACM IMWUT/UbiComp, Sep. 2025, pp. 1--21. (CCF-A) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3749477)
 1. <b style="color:#5d9cec; font-weight:600;">[IEEE INFOCOM'25]</b> **Y. He**, M. Xu, F. Xiao, and J. Luo, "[VersaBeam: Versatile Beamforming for Integrated Sensing and Communication over Commodity Wi-Fi](https://ieeexplore.ieee.org/document/11044469)," in Proc. IEEE INFOCOM, 2025, pp. 1--10. (CCF-A, acceptance rate: 272/1458=18.7%) [[PDF]](pdf/INFOCOM25_VersaBeam.pdf)
