@@ -58,6 +58,20 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 
 ## Conference
 
+### Conference Papers
+1. **Y. He**, L. Fan, X. Li, and J. Luo, “CloakFi: Metasurface-Enabled Privacy Protection for Wi-Fi Integrated Sensing and Communication,” accepted in *Proc. IEEE INFOCOM*, May 2026, pp. 1–10.
+1. L. Fan, **Y. He** (co-first author), L. Xie, S. Zhang, and J. Luo, “Sense with polyface mirror: Enhancing Wi-Fi sensing diversity via programmable metasurfaces”, accepted in *Proc. ACM/IEEE SenSys*, 2026, pp. 1–15.
+1. X. Li, **Y. He** (corresponding author), and J. Luo, “µCeiver-Fi: Exploiting spectrum resources of multi-link receiver for fine-granularity Wi-Fi sensing,” in *Proc. ACM MobiCom*, Nov. 2025, pp. 1–16.
+1. **Y. He** (corresponding author), M. Xu, Z. Chen, F. Xiao, and J. Luo, “Beam-Fi: Integrated sensing and communication via MU-MIMO upon Commodity Wi-Fi,” in *Proc. ACM UbiComp/IMWUT*, Sep. 2025, pp. 1–22.
+1. **Y. He**, M. Xu, F. Xiao, and J. Luo, “VersaBeam: Versatile beamforming for integrated sensing and communication over commodity Wi-Fi,” in *Proc. IEEE INFOCOM*, May 2025, pp. 1–10.
+1. M. Xu, **Y. He** (co-first author), X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, “Beamforming made malicious: Manipulating Wi-Fi traffic via beamforming feedback forgery,” in *Proc. ACM MobiCom*, Nov. 2024, pp. 1–15.
+1. **Y. He**, Y. Cai, and G. Yu, “Beamforming design with bilevel optimization for RIS-assisted SWIPT systems,” in *Proc. IEEE ICC Workshops*, Jun. 2024, pp. 578–583.
+1. **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, “SenCom: Integrated sensing and communication with practical WiFi,” in *Proc. ACM MobiCom*, Oct. 2023, pp. 1–16.
+1. **Y. He**, G. Yu, Y. Cai, and H. Luo, “Performance optimization in integrated sensing, computation, and communication systems,” in *Proc. IEEE ICC*, May 2023, pp. 5707–5712.
+1. **Y. He**, J. Ren, G. Yu, and J. Yuan, “Resource allocation for wireless federated edge learning based on data importance,” in *Proc. IEEE GLOBECOM*, Dec. 2020, pp. 1–6.
+1. **Y. He**, J. Ren, G. Yu, and Y. Cai, “Optimizing the learning accuracy in mobile augmented reality systems with CNN,” in *Proc. IEEE ICC*, Jun. 2020, pp. 1–6.
+1. **Y. He**, J. Ren, G. Yu, and Y. Cai, “Joint computation offloading and resource allocation in D2D enabled MEC networks,” in *Proc. IEEE ICC*, Oct. 2019, pp. 1–6.
+
 
 # 🏅 Honors and Awards
 - 2025.09, **Top 2% Scientists Worldwide**, Stanford University
