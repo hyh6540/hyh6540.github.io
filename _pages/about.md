@@ -82,9 +82,8 @@ If you have any questions about my research, or if you are interested in potenti
 
 
 ## Conference
-
-1. <span class="pub-tag">[ACM/IEEE SenSys'26]</span> L. Fan, **Y. He\***, L. Xie, S. Zhang, and J. Luo, “Sense with polyface mirror: Enhancing Wi-Fi sensing diversity via programmable metasurfaces,” accepted in *Proc. ACM/IEEE SenSys*, 2026, pp. 1–15.
 2. <span class="pub-tag">[IEEE INFOCOM'26]</span> **Y. He**, L. Fan, X. Li, and J. Luo, “CloakFi: Metasurface-Enabled Privacy Protection for Wi-Fi Integrated Sensing and Communication,” accepted in *Proc. IEEE INFOCOM*, May 2026, pp. 1–10.
+1. <span class="pub-tag">[ACM/IEEE SenSys'26]</span> L. Fan, **Y. He\***, L. Xie, S. Zhang, and J. Luo, “Sense with polyface mirror: Enhancing Wi-Fi sensing diversity via programmable metasurfaces,” accepted in *Proc. ACM/IEEE SenSys*, 2026, pp. 1–15.
 3. <span class="pub-tag">[ACM MobiCom'25]</span> X. Li, **Y. He#**, and J. Luo, “µCeiver-Fi: Exploiting spectrum resources of multi-link receiver for fine-granularity Wi-Fi sensing,” in *Proc. ACM MobiCom*, Hong Kong, China, Nov. 2025, pp. 1–16.
 4. <span class="pub-tag">[ACM UbiComp'25]</span> **Y. He#**, M. Xu, Z. Chen, F. Xiao, and J. Luo, “Beam-Fi: Integrated sensing and communication via MU-MIMO upon Commodity Wi-Fi,” in *Proc. ACM UbiComp/IMWUT*, Sep. 2025, pp. 1–22.
 5. <span class="pub-tag">[IEEE INFOCOM'25]</span> **Y. He**, M. Xu, F. Xiao, and J. Luo, “VersaBeam: Versatile beamforming for integrated sensing and communication over commodity Wi-Fi,” in *Proc. IEEE INFOCOM*, May 2025, pp. 1–10.
