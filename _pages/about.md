@@ -24,12 +24,12 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 
 # 🎓 Educations 
 
--  Sep. 2018 – Sep. 2023, **Zhejiang University**, Ph.D. in Information and Communication Engineering
--  Sep. 2014 – Jun. 2018, **Zhejiang University**, B.E. in Information Engineering
+-  2018.09 - 2023.09, **Zhejiang University**, Ph.D. in Information and Communication Engineering
+-  2014.09 - 2018.06, **Zhejiang University**, B.E. in Information Engineering
 
 # Experience
 
-- Nov. 2023 – Present, **Nanyang Technological University**, Research Fellow, College of Computing and Data Science, <br>
+- 2023.11 – Present, **Nanyang Technological University**, Research Fellow, College of Computing and Data Science, <br>
   Working with Prof. Jun Luo (IEEE Fellow).
 
 - Jul. 2017 – Oct. 2017, **The Chinese University of Hong Kong**, Research Assistant, Department of Information Engineering, <br>
