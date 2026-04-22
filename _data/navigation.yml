@@ -5,15 +5,18 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+  
+  - title: "Experience"
+    url: "/#-experience"
+    
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publications-selected---co-first-author---corresponding-author"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Conferences"
-    url: "/#-conferences"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Professional Service"
+    url: "/#-professional-service"
