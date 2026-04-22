@@ -57,8 +57,6 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 
 
 ## Conference
-
-### Conference Papers
 1. **Y. He**, L. Fan, X. Li, and J. Luo, “CloakFi: Metasurface-Enabled Privacy Protection for Wi-Fi Integrated Sensing and Communication,” accepted in *Proc. IEEE INFOCOM*, May 2026, pp. 1–10.
 1. L. Fan, **Y. He** (co-first author), L. Xie, S. Zhang, and J. Luo, “Sense with polyface mirror: Enhancing Wi-Fi sensing diversity via programmable metasurfaces”, accepted in *Proc. ACM/IEEE SenSys*, 2026, pp. 1–15.
 1. X. Li, **Y. He** (corresponding author), and J. Luo, “µCeiver-Fi: Exploiting spectrum resources of multi-link receiver for fine-granularity Wi-Fi sensing,” in *Proc. ACM MobiCom*, Nov. 2025, pp. 1–16.
