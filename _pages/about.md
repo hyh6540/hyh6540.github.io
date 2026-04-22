@@ -48,7 +48,7 @@ If you have any questions about my research, or if you are interested in potenti
 - 2023.11 – Present, Research Fellow, College of Computing and Data Science, Nanyang Technological University,  <br>
   working with [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/) (IEEE Fellow).
 
-- Jul. 2017 – Oct. 2017, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, <br>
+- 2017.07 – 2017.10, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, <br>
   working with [Prof. Minghua Chen](https://www.mhchen.com/) (IEEE Fellow).
 
 
