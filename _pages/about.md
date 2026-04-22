@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), working with Prof. Jun Luo (IEEE Fellow). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023, where I was advised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
+I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023, where I was advised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
@@ -29,20 +29,20 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 
 # Experience
 
-- Nov. 2023 – Present, **Nanyang Technological University**, Research Fellow, College of Computing and Data Science, 
+- Nov. 2023 – Present, **Nanyang Technological University**, Research Fellow, College of Computing and Data Science, <br>
   Working with Prof. Jun Luo (IEEE Fellow).
 
-- Jul. 2017 – Oct. 2017, **The Chinese University of Hong Kong**, Research Assistant, Department of Information Engineering, 
+- Jul. 2017 – Oct. 2017, **The Chinese University of Hong Kong**, Research Assistant, Department of Information Engineering, <br>
   Working with Prof. Minghua Chen (IEEE Fellow).
 
 # 📝 Publications 
 
 # 🏅 Honors and Awards
-- **Top 2% Scientists Worldwide**, Stanford University, Sep. 2025
-- **Top 2% Scientists Worldwide**, Stanford University, Sep. 2024
-- **Best Paper Award**, IEEE ICC Workshop on NGATFWN, May 2024
-- **National Scholarship**, Ministry of Education, PRC, Dec. 2020
-- **National Scholarship**, Ministry of Education, PRC, Nov. 2016
+- 2025.09, **Top 2% Scientists Worldwide**, Stanford University
+- 2024.09, **Top 2% Scientists Worldwide**, Stanford University
+- 2024.05, **Best Paper Award**, IEEE ICC Workshop on NGATFWN
+- 2020.12, **National Scholarship**, Ministry of Education, PRC 
+- 2016.11, **National Scholarship**, Ministry of Education, PRC 
   
 # Professional Service
 - Reviewer for leading journals including IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, and IEEE Internet of Things Journal.
