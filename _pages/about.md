@@ -32,23 +32,29 @@ redirect_from:
 </style>
 
 
-I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023, where I was advised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
+I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
  <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 
 # 🎓 Educations 
 
--  2018.09 - 2023.09, **Zhejiang University**, Ph.D. in Information and Communication Engineering
+-  2018.09 - 2023.09, **Zhejiang University**, Ph.D. in Information and Communication Engineering, <br>
+   advised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han.
 -  2014.09 - 2018.06, **Zhejiang University**, B.E. in Information Engineering
 
-# Experience
+# 💼 Experience
 
 - 2023.11 – Present, **Nanyang Technological University**, Research Fellow, College of Computing and Data Science, <br>
-  Working with Prof. Jun Luo (IEEE Fellow).
+  working with Prof. Jun Luo (IEEE Fellow).
 
 - Jul. 2017 – Oct. 2017, **The Chinese University of Hong Kong**, Research Assistant, Department of Information Engineering, <br>
-  Working with Prof. Minghua Chen (IEEE Fellow).
+  working with Prof. Minghua Chen (IEEE Fellow).
+
+
+# ⭐ News
+
+- 
 
 # 📝 Publications (Selected)  \* co-first author &nbsp;&nbsp; # corresponding author
 ## Journal
@@ -95,7 +101,7 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 - 2020.12, **National Scholarship**, Ministry of Education, PRC 
 - 2016.11, **National Scholarship**, Ministry of Education, PRC 
   
-# Professional Service
+# 🤝 Professional Service
 - Reviewer for leading journals including IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, and IEEE Internet of Things Journal.
 - **Distinguished Reviewer** for ACM Transactions on Internet of Things (TIOT).
 - Technical Program Committee (TPC) Member for IEEE WCNC (2024–2026) and IEEE WCSP (2021, 2023, 2024).
