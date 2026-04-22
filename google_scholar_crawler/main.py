@@ -5,7 +5,14 @@ from datetime import datetime
 import os
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+
+try:
+    scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+except AttributeError as e:
+    print(f"Warning: Failed to fill author details: {e}")
+    # 继续执行，使用部分数据
+    scholarly.fill(author, sections=['indices', 'counts', 'publications'])
+
 name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
