@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023, where I was advised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 
