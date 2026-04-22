@@ -58,7 +58,8 @@ If you have any questions about my research, or if you are interested in potenti
 
 # 📝 Publications (Selected)  \* co-first author &nbsp;&nbsp; # corresponding author
 ## Journal
-
+1. <span class="pub-tag">[IEEE TMC'25]</span> **Y. He**, M. Xu, Z. Chen, F. Xiao, and J. Luo, “[Beamforming-Enabled Integrated Sensing and Communication over Commodity Multi-User Wi-Fi](https://ieeexplore.ieee.org/document/11429155),” *IEEE Trans. Mobile Comput.*, early access, doi:10.1109/TMC.2026.3672117, 2025.
+1. <span class="pub-tag">[IEEE TMC'25]</span> **Y. He**, M. Xu, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, “Traffic Manipulation Via Beamforming Feedback Forgery in Practical Wi-Fi Systems,” *IEEE Trans. Mobile Comput.*, early access, doi:10.1109/TMC.2025.3649818, 2025.
 1. <span class="pub-tag">[IEEE TMC'25]</span> **Y. He**, X. Li, and J. Luo, “Task-oriented integrated sensing and semantic communications for multi-device video analytics,” *IEEE Trans. Mobile Comput.*, early access, doi:10.1109/TMC.2025.3641899, 2025.
 2. <span class="pub-tag">[IEEE TMC'25]</span> Z. Ye, Q. Xiao, J. Liu, **Y. He#**, G. Yu, and J. Han, “Practical WiFi indoor localization: Unleashing the potential of GNNs for accuracy and robustness,” *IEEE Trans. Mobile Comput.*, early access, doi:10.1109/TMC.2025.3640665, 2025.
 3. <span class="pub-tag">[IEEE TCOM'25]</span> Q. Xiao, Z. Ye, **Y. He#**, J. Liu, and G. Yu, “Meta-SimGNN: Adaptive and robust WiFi localization across dynamic configurations and diverse scenarios,” *IEEE Trans. Commun.*, early access, doi:10.1109/TCOMM.2025.3637041, 2025.
