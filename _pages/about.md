@@ -50,8 +50,7 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 - Jul. 2017 – Oct. 2017, **The Chinese University of Hong Kong**, Research Assistant, Department of Information Engineering, <br>
   Working with Prof. Minghua Chen (IEEE Fellow).
 
-# 📝 Publications (Selected) 
-\* co-first author &nbsp;&nbsp; # corresponding author
+# 📝 Publications (Selected)  \* co-first author &nbsp;&nbsp; # corresponding author
 ## Journal
 
 1. <span class="pub-tag">[IEEE TMC'25]</span> **Y. He**, X. Li, and J. Luo, “Task-oriented integrated sensing and semantic communications for multi-device video analytics,” *IEEE Trans. Mobile Comput.*, early access, doi:10.1109/TMC.2025.3641899, 2025.
@@ -76,12 +75,12 @@ I am currently a Research Fellow at the College of Computing and Data Science, N
 
 ## Conference
 
-1. <span class="pub-tag">[ACM/IEEE SenSys'26]</span> L. Fan, **Y. He<sup>*</sup>**, L. Xie, S. Zhang, and J. Luo, “Sense with polyface mirror: Enhancing Wi-Fi sensing diversity via programmable metasurfaces,” accepted in *Proc. ACM/IEEE SenSys*, 2026, pp. 1–15.
+1. <span class="pub-tag">[ACM/IEEE SenSys'26]</span> L. Fan, **Y. He\***, L. Xie, S. Zhang, and J. Luo, “Sense with polyface mirror: Enhancing Wi-Fi sensing diversity via programmable metasurfaces,” accepted in *Proc. ACM/IEEE SenSys*, 2026, pp. 1–15.
 2. <span class="pub-tag">[IEEE INFOCOM'26]</span> **Y. He**, L. Fan, X. Li, and J. Luo, “CloakFi: Metasurface-Enabled Privacy Protection for Wi-Fi Integrated Sensing and Communication,” accepted in *Proc. IEEE INFOCOM*, May 2026, pp. 1–10.
 3. <span class="pub-tag">[ACM MobiCom'25]</span> X. Li, **Y. He#**, and J. Luo, “µCeiver-Fi: Exploiting spectrum resources of multi-link receiver for fine-granularity Wi-Fi sensing,” in *Proc. ACM MobiCom*, Hong Kong, China, Nov. 2025, pp. 1–16.
 4. <span class="pub-tag">[ACM UbiComp'25]</span> **Y. He#**, M. Xu, Z. Chen, F. Xiao, and J. Luo, “Beam-Fi: Integrated sensing and communication via MU-MIMO upon Commodity Wi-Fi,” in *Proc. ACM UbiComp/IMWUT*, Sep. 2025, pp. 1–22.
 5. <span class="pub-tag">[IEEE INFOCOM'25]</span> **Y. He**, M. Xu, F. Xiao, and J. Luo, “VersaBeam: Versatile beamforming for integrated sensing and communication over commodity Wi-Fi,” in *Proc. IEEE INFOCOM*, May 2025, pp. 1–10.
-6. <span class="pub-tag">[ACM MobiCom'24]</span> M. Xu, **Y. He<sup>*</sup>**, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, “Beamforming made malicious: Manipulating Wi-Fi traffic via beamforming feedback forgery,” in *Proc. ACM MobiCom*, Nov. 2024, pp. 1–15.
+6. <span class="pub-tag">[ACM MobiCom'24]</span> M. Xu, **Y. He\***, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, “Beamforming made malicious: Manipulating Wi-Fi traffic via beamforming feedback forgery,” in *Proc. ACM MobiCom*, Nov. 2024, pp. 1–15.
 7. <span class="pub-tag">[IEEE ICC Workshops'24]</span> **Y. He**, Y. Cai, and G. Yu, “Beamforming design with bilevel optimization for RIS-assisted SWIPT systems,” in *Proc. IEEE ICC Workshops*, Jun. 2024, pp. 578–583.
 8. <span class="pub-tag">[ACM MobiCom'23]</span> **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, “SenCom: Integrated sensing and communication with practical WiFi,” in *Proc. ACM MobiCom*, Oct. 2023, pp. 1–16.
 9. <span class="pub-tag">[IEEE ICC'23]</span> **Y. He**, G. Yu, Y. Cai, and H. Luo, “Performance optimization in integrated sensing, computation, and communication systems,” in *Proc. IEEE ICC*, May 2023, pp. 5707–5712.
