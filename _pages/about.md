@@ -32,24 +32,24 @@ redirect_from:
 </style>
 
 
-I am currently a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
+Hi, I am Yinghui He, a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
  <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-
+If you have any questions about my research, or if you are interested in potential collaboration, please feel free to contact me via email: yinghui.he@ntu.edu.cn.
 
 # 🎓 Educations 
 
 -  2018.09 - 2023.09, Ph.D. in Information and Communication Engineering, Zhejiang University, <br>
-   advised by Prof. Guanding Yu, Prof. Yunlong Cai, and Prof. Jinsong Han.
+   advised by [Prof. Guanding Yu](https://person.zju.edu.cn/en/yuguanding), [Prof. Yunlong Cai](https://person.zju.edu.cn/en/ylcai), and [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong).
 -  2014.09 - 2018.06, B.E. in Information Engineering, Zhejiang University, 
 
 # 💼 Experience
 
 - 2023.11 – Present, Research Fellow, College of Computing and Data Science, Nanyang Technological University,  <br>
-  working with Prof. Jun Luo (IEEE Fellow).
+  working with [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/) (IEEE Fellow).
 
 - Jul. 2017 – Oct. 2017, Research Assistant, Department of Information Engineering, The Chinese University of Hong Kong, <br>
-  working with Prof. Minghua Chen (IEEE Fellow).
+  working with [Prof. Minghua Chen](https://www.mhchen.com/) (IEEE Fellow).
 
 
 # ⭐ News
