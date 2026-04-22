@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yinghui He"
 description              : "This is the academic homepage of Yinghui He."
-repository               : "https://hyh6540.github.io/"
+repository               : "hyh6540/hyh6540.github.io/"
 google_scholar_stats_use_cdn : false
 
 # google analytics
