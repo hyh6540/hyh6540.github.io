@@ -95,15 +95,15 @@ If you have any questions about my research, or if you are interested in potenti
 
 
 # 🏅 Honors and Awards
-- 2025.09, **Top 2% Scientists Worldwide**, Stanford University
-- 2024.09, **Top 2% Scientists Worldwide**, Stanford University
+- 2025.09, **[Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)**, Stanford University
+- 2024.09, **[Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)**, Stanford University
 - 2024.05, **Best Paper Award**, IEEE ICC Workshop on NGATFWN
 - 2020.12, **National Scholarship**, Ministry of Education, PRC 
 - 2016.11, **National Scholarship**, Ministry of Education, PRC 
   
 # 🤝 Professional Service
 - Reviewer for leading journals including IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, and IEEE Internet of Things Journal.
-- **Distinguished Reviewer** for ACM Transactions on Internet of Things (TIOT).
+- **Distinguished Reviewer** for [ACM TOSN](https://dl.acm.org/journal/tosn/editorial-board#distinguished-reviewer-board), [ACM TIOT](https://dl.acm.org/journal/tiot/editorial-board#distinguished-reviewers).
 - Technical Program Committee (TPC) Member for IEEE WCNC (2024–2026) and IEEE WCSP (2021, 2023, 2024).
 
 
