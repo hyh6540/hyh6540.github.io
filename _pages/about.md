@@ -67,14 +67,17 @@ If you have any questions about my research, or if you are interested in potenti
 6. <span class="pub-tag">[IEEE IoT-J'25]</span> Q. Xiao, **Y. He#**, G. Yu, J. Yuan, and R. Yin, “Localization-assisted fast and robust beam optimization for mmWave communications,” *IEEE Internet Things J.*, vol. 12, no. 9, pp. 12383–12396, May 2025.
 7. <span class="pub-tag">[IEEE CL'24]</span> D. Wang, W. Chen, **Y. He#**, J. Wang, H. Luo, and G. Yu, “Experimental study on ISAC performance with different sensing sequences,” *IEEE Commun. Lett.*, vol. 28, no. 11, pp. 2538–2542, Nov. 2024.
 9. <span class="pub-tag">[IEEE JSAC'24]</span> **Y. He**, J. Liu, M. Li, G. Yu, and J. Han, “Forward-compatible integrated sensing and communication for WiFi,” *IEEE J. Sel. Areas Commun.*, vol. 42, no. 9, pp. 2440–2456, Sep. 2024.
-10. <span class="pub-tag">[IEEE TWC'24]</span> **Y. He**, G. Yu, Z. Tang, J. Wang, and H. Luo, “A dual-functional sensing-communication waveform design based on OFDM,” *IEEE Trans. Wireless Commun.*, vol. 23, no. 11, pp. 16962–16975, Nov. 2024.
+10. <span class="pub-tag">[IEEE TWC'24]</span> **Y. He**, G. Yu, Z. Tang, J. Wang, and H. Luo, “A dual-functional sensing-communication waveform design based on OFDM,” *IEEE Trans. Wireless Commun.*, vol. 23, no. 11, pp. 16962–16975, Nov. 2024. **ESI Highly Cited**
 11. <span class="pub-tag">[IEEE TWC'24]</span> **Y. He**, G. Yu, Y. Cai, and H. Luo, “Integrated sensing, computation, and communication: System framework and performance optimization,” *IEEE Trans. Wireless Commun.*, vol. 23, no. 2, pp. 1114–1128, Feb. 2024.
 12. <span class="pub-tag">[IEEE IoT-J'24]</span> Q. Chen, **Y. He#**, G. Yu, C. Xu, M. Liu, and Z. Li, “KBMP: Kubernetes-orchestrated IoT online battery monitoring platform,” *IEEE Internet Things J.*, vol. 11, no. 14, pp. 25358–25370, Jul. 2024.
 15. <span class="pub-tag">[IEEE TCOM'22]</span> **Y. He**, Y. Cai, and G. Yu, “Joint transceiver design for dual-functional full-duplex relay aided radar-communication systems,” *IEEE Trans. Commun.*, vol. 70, no. 12, pp. 8355–8369, Dec. 2022.
-16. <span class="pub-tag">[IEEE JSAC'22]</span> **Y. He**, Y. Cai, H. Mao, and G. Yu, “RIS-assisted communication radar coexistence: Joint beamforming design and analysis,” *IEEE J. Sel. Areas Commun.*, vol. 40, no. 7, pp. 2131–2145, Jul. 2022.
+16. <span class="pub-tag">[IEEE JSAC'22]</span> **Y. He**, Y. Cai, H. Mao, and G. Yu, “RIS-assisted communication radar coexistence: Joint beamforming design and analysis,” *IEEE J. Sel. Areas Commun.*, vol. 40, no. 7, pp. 2131–2145, Jul. 2022. **ESI Highly Cited**
 17. <span class="pub-tag">[IEEE TVT'20]</span> **Y. He**, J. Ren, G. Yu, and J. Yuan, “Importance-aware data selection and resource allocation in federated edge learning system,” *IEEE Trans. Veh. Technol.*, vol. 69, no. 11, pp. 13593–13605, Nov. 2020.
 18. <span class="pub-tag">[IEEE TWC'20]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “Optimizing the learning performance in mobile augmented reality systems with CNN,” *IEEE Trans. Wireless Commun.*, vol. 19, no. 8, pp. 5333–5344, Aug. 2020.
+20. <span class="pub-tag">[IEEE TVT'19]</span> J. Ren, G. Yu, **Y. He**, and G. Y. Li, ``Collaborative cloud and edge computing for latency minimization,'' *IEEE Trans. Veh. Techn.*, vol. 68, no. 5, pp. 5031--5044, May 2019. **ESI Highly Cited**
 19. <span class="pub-tag">[IEEE TWC'19]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “D2D communications meet mobile edge computing for enhanced computation capacity in cellular networks,” *IEEE Trans. Wireless Commun.*, vol. 18, no. 3, pp. 1750–1763, Mar. 2019.
+20. J. Ren, G. Yu, Y. Cai, and **Y. He**, ``Latency optimization for resource allocation in mobile-edge computation offloading,'' *IEEE Trans. Wireless Commun.*, vol. 17, no. 8, pp. 5506--5519, Aug. 2018. **ESI Highly Cited**
+
 
 
 
@@ -85,13 +88,14 @@ If you have any questions about my research, or if you are interested in potenti
 3. <span class="pub-tag">[ACM MobiCom'25]</span> X. Li, **Y. He#**, and J. Luo, “µCeiver-Fi: Exploiting spectrum resources of multi-link receiver for fine-granularity Wi-Fi sensing,” in *Proc. ACM MobiCom*, Hong Kong, China, Nov. 2025, pp. 1–16.
 4. <span class="pub-tag">[ACM UbiComp'25]</span> **Y. He#**, M. Xu, Z. Chen, F. Xiao, and J. Luo, “Beam-Fi: Integrated sensing and communication via MU-MIMO upon Commodity Wi-Fi,” in *Proc. ACM UbiComp/IMWUT*, Sep. 2025, pp. 1–22.
 5. <span class="pub-tag">[IEEE INFOCOM'25]</span> **Y. He**, M. Xu, F. Xiao, and J. Luo, “VersaBeam: Versatile beamforming for integrated sensing and communication over commodity Wi-Fi,” in *Proc. IEEE INFOCOM*, May 2025, pp. 1–10.
-6. <span class="pub-tag">[ACM MobiCom'24]</span> M. Xu, **Y. He\***, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, “Beamforming made malicious: Manipulating Wi-Fi traffic via beamforming feedback forgery,” in *Proc. ACM MobiCom*, Nov. 2024, pp. 1–15.
-7. <span class="pub-tag">[IEEE ICC Workshops'24]</span> **Y. He**, Y. Cai, and G. Yu, “Beamforming design with bilevel optimization for RIS-assisted SWIPT systems,” in *Proc. IEEE ICC Workshops*, Jun. 2024, pp. 578–583.
-8. <span class="pub-tag">[ACM MobiCom'23]</span> **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, “SenCom: Integrated sensing and communication with practical WiFi,” in *Proc. ACM MobiCom*, Oct. 2023, pp. 1–16.
-9. <span class="pub-tag">[IEEE ICC'23]</span> **Y. He**, G. Yu, Y. Cai, and H. Luo, “Performance optimization in integrated sensing, computation, and communication systems,” in *Proc. IEEE ICC*, May 2023, pp. 5707–5712.
-10. <span class="pub-tag">[IEEE GLOBECOM'20]</span> **Y. He**, J. Ren, G. Yu, and J. Yuan, “Resource allocation for wireless federated edge learning based on data importance,” in *Proc. IEEE GLOBECOM*, Dec. 2020, pp. 1–6.
-11. <span class="pub-tag">[IEEE ICC'20]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “Optimizing the learning accuracy in mobile augmented reality systems with CNN,” in *Proc. IEEE ICC*, Jun. 2020, pp. 1–6.
-12. <span class="pub-tag">[IEEE ICC'19]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “Joint computation offloading and resource allocation in D2D enabled MEC networks,” in *Proc. IEEE ICC*, Oct. 2019, pp. 1–6.
+6.  <span class="pub-tag">[ISOC NDSS'25]</span>  R. Xiao, X. Chen, **Y. He**, J. Han, and J. Han, "Lend me your beam: Privacy implications of beamforming feedback packets in WiFi," in *ISOC NDSS*, Feb. 2025, pp. 1--17. (CCF-A)
+7. <span class="pub-tag">[ACM MobiCom'24]</span> M. Xu, **Y. He\***, X. Li, J. Hu, Z. Chen, F. Xiao, and J. Luo, “Beamforming made malicious: Manipulating Wi-Fi traffic via beamforming feedback forgery,” in *Proc. ACM MobiCom*, Nov. 2024, pp. 1–15.
+8. <span class="pub-tag">[IEEE ICC Workshops'24]</span> **Y. He**, Y. Cai, and G. Yu, “Beamforming design with bilevel optimization for RIS-assisted SWIPT systems,” in *Proc. IEEE ICC Workshops*, Jun. 2024, pp. 578–583.
+9. <span class="pub-tag">[ACM MobiCom'23]</span> **Y. He**, J. Liu, M. Li, G. Yu, J. Han, and K. Ren, “SenCom: Integrated sensing and communication with practical WiFi,” in *Proc. ACM MobiCom*, Oct. 2023, pp. 1–16.
+10. <span class="pub-tag">[IEEE ICC'23]</span> **Y. He**, G. Yu, Y. Cai, and H. Luo, “Performance optimization in integrated sensing, computation, and communication systems,” in *Proc. IEEE ICC*, May 2023, pp. 5707–5712.
+11. <span class="pub-tag">[IEEE GLOBECOM'20]</span> **Y. He**, J. Ren, G. Yu, and J. Yuan, “Resource allocation for wireless federated edge learning based on data importance,” in *Proc. IEEE GLOBECOM*, Dec. 2020, pp. 1–6.
+12. <span class="pub-tag">[IEEE ICC'20]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “Optimizing the learning accuracy in mobile augmented reality systems with CNN,” in *Proc. IEEE ICC*, Jun. 2020, pp. 1–6.
+13. <span class="pub-tag">[IEEE ICC'19]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “Joint computation offloading and resource allocation in D2D enabled MEC networks,” in *Proc. IEEE ICC*, Oct. 2019, pp. 1–6.
 
 
 # 🏅 Honors and Awards
