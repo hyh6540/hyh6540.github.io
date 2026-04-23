@@ -31,11 +31,12 @@ redirect_from:
 }
 </style>
 
-
+<p style="font-size: 1.15em; line-height: 1.8;">
 Hi, I am Yinghui He, a Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU). I received my Ph.D. in Information and Communication Engineering from Zhejiang University in 2023. My research interests mainly include integrated sensing and communications (ISAC), mobile computing, and device-to-device communications. I have published 50+ papers with 
  <a href='https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 If you have any questions about my research, or if you are interested in potential collaboration, please feel free to contact me via email: yinghui.he@ntu.edu.cn.
+</p>
 
 # 🎓 Educations 
 
