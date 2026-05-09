@@ -109,7 +109,7 @@ If you have any questions about my research, or if you are interested in potenti
 # 🤝 Professional Service
 - Reviewer for leading journals including IEEE JSAC, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, and IEEE Internet of Things Journal.
 - **Distinguished Reviewer** for [ACM TOSN](https://dl.acm.org/journal/tosn/editorial-board#distinguished-reviewer-board), [ACM TIOT](https://dl.acm.org/journal/tiot/editorial-board#distinguished-reviewers).
-- Technical Program Committee (TPC) Member for IEEE WCNC (2024–2026) and IEEE WCSP (2021, 2023, 2024).
+- Technical Program Committee (TPC) Member for IEEE GLOBECOM (2026), IEEE WCNC (2024–2026), and IEEE WCSP (2021, 2023, 2024).
 
 
   
