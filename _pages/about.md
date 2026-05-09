@@ -55,7 +55,8 @@ If you have any questions about my research, or if you are interested in potenti
 
 # ⭐ News
 
-- 2026.4: RespirFi was accepted by IEEE IoT-J. We released the demo video. 
+- 2026.05: I was selected for the MobiSys 2026 Rising Star Forum for research on wireless integrated sensing and communications.
+- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the demo video. 
 
 # 📝 Publications (Selected)  \* co-first author &nbsp;&nbsp; # corresponding author
 ## Journal
@@ -100,6 +101,7 @@ If you have any questions about my research, or if you are interested in potenti
 13. <span class="pub-tag">[IEEE ICC'19]</span> **Y. He**, J. Ren, G. Yu, and Y. Cai, “[Joint computation offloading and resource allocation in D2D enabled MEC networks](https://doi.org/10.1109/ICC.2019.8761169),” in *Proc. IEEE ICC*, Oct. 2019, pp. 1–6.
 
 # 🏅 Honors and Awards
+- 2026.06, ACM MobiSys Rising Star, ACM MobiSys
 - 2025.09, **[Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)**, Stanford University
 - 2024.09, **[Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)**, Stanford University
 - 2024.05, **Best Paper Award**, IEEE ICC Workshop on NGATFWN
