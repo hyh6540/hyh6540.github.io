@@ -54,12 +54,14 @@ If you have any questions about my research, or if you are interested in potenti
 
 
 # ⭐ News
+- 2026.07: One paper was accepted by IEEE TWC. Congratulations to Weiwei, and also on her successfully obtaining her master's degree (this June).
 - 2026.05: I am honored to serve as a Session Chair for IEEE INFOCOM 2026.
 - 2026.05: I was selected for the MobiSys 2026 Rising Star Forum for research on wireless integrated sensing and communications.
 - 2026.04: RespirFi was accepted by IEEE IoT-J. We released the demo video. 
 
 # 📝 Publications (Selected)  \* co-first author &nbsp;&nbsp; # corresponding author
 ## Journal
+1. <span class="pub-tag">[IEEE TWC'26]</span> W. Chen, Y. He, Z. Ye, D. Wen, and G. Yu, “[Task-Oriented Multimodal Edge Intelligence via Integrated Sensing-Communication-Computation](https://ieeexplore.ieee.org/abstract/document/11610640),” *IEEE Trans. Wireless Commun.*, vol. 25, pp. 20071-20085, 2026. [[PDF]](https://arxiv.org/pdf/2607.03907)
 1. <span class="pub-tag">[IEEE IOT-J'26]</span> H. Wang, J. Liu#, **Y. He#**, G. Yu, and J. Han, "[High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi](https://ieeexplore.ieee.org/document/11494783)," *IEEE Internet Things J.*, vol. 13, no. 13, pp. 29913-29928, Jul. 2026. [[PDF]](https://arxiv.org/pdf/2604.20397) [[demo]](pdf/RespirFi_demo.mp4)
 1. <span class="pub-tag">[IEEE TMC'26]</span> **Y. He**, M. Xu, Z. Chen, F. Xiao, and J. Luo, “[Beamforming-Enabled Integrated Sensing and Communication over Commodity Multi-User Wi-Fi](https://ieeexplore.ieee.org/document/11429155),” *IEEE Trans. Mobile Comput.*, vol. 25, no. 8, pp. 12370-12384, Aug. 2026. [[PDF]](https://www.researchgate.net/publication/401603471_Beamforming-Enabled_Integrated_Sensing_and_Communication_over_Commodity_Multi-User_Wi-Fi)
 1. <span class="pub-tag">[IEEE JSAC'26]</span> K. Chi, **Y. He**, Q. Yang, Y. Shu, Z. Wang, and J. Luo, "[DeepGuard: Defending Deep Joint Source-Channel Coding Against Eavesdropping at Physical-Layer](https://ieeexplore.ieee.org/abstract/document/11421377)," *IEEE J. Sel. Areas Commun.*, vol. 44, pp. 4128-4143, 2026. [[PDF]](https://arxiv.org/pdf/2512.18715)
