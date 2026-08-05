@@ -54,7 +54,7 @@ If you have any questions about my research, or if you are interested in potenti
 
 
 # ⭐ News
-- 2026.08: DeepStream was accepted by IEEE TMC. Two papers were accepted at IEEE GLOBECOM.
+- 2026.08: DeepStream and PrivISAC were accepted by IEEE TMC. Two papers were accepted at IEEE GLOBECOM.
 - 2026.07: One paper was accepted by IEEE TWC. Congratulations to Weiwei, and also on her successfully obtaining her master's degree (this March).
 - 2026.05: I am honored to serve as a Session Chair for IEEE INFOCOM 2026.
 - 2026.05: I was selected for the MobiSys 2026 Rising Star Forum for research on wireless integrated sensing and communications.
