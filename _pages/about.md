@@ -109,7 +109,7 @@ If you have any questions about my research, or if you are interested in potenti
 - 2026.06, **ACM MobiSys Rising Star**, ACM MobiSys
 - 2025.09, **[Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)**, Stanford University
 - 2024.09, **[Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)**, Stanford University
-- 2024.05, **Best Paper Award**, IEEE ICC Workshop on NGATFWN
+- 2024.06, **Best Paper Award**, IEEE ICC Workshop on NGATFWN
 - 2020.12, **National Scholarship**, Ministry of Education, PRC 
 - 2016.11, **National Scholarship**, Ministry of Education, PRC 
   
